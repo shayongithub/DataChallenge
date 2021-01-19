@@ -1,0 +1,754 @@
+A_HO_VA_TEN,B_NGAY_SINH,C_DIEM_THI
+NGUYỄN HOÀNG MINH THƯ,20/01/2002,Toán:   6.80   Ngữ văn:   7.50   Lịch sử:   4.75   Địa lí:   8.00   GDCD:   9.25   KHXH: 7.33   Tiếng Anh:   8.40
+NGUYỄN LONG BẢO THƯ,01/01/2002,Toán:   7.80   Ngữ văn:   7.75   Vật lí:   6.75   Hóa học:   7.25   Sinh học:   7.75   KHTN: 7.25   Tiếng Anh:   5.20
+NGUYỄN LƯ ANH THƯ,25/06/2002,Toán:   6.20   Ngữ văn:   7.00   Lịch sử:   3.75   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.17   Tiếng Anh:   6.80
+NGUYỄN MINH THƯ,03/08/2002,Toán:   8.60   Ngữ văn:   7.00   Vật lí:   5.25   Hóa học:   6.00   Sinh học:   5.00   KHTN: 5.42   Tiếng Anh:   7.60
+NGUYỄN MINH THƯ,14/05/2002,Toán:   7.40   Ngữ văn:   7.25   Lịch sử:   4.00   Địa lí:   6.25   GDCD:   8.25   KHXH: 6.17   Tiếng Anh:   8.40
+PHẠM LÂM KHÁNH THƯ,30/10/2002,Toán:   6.60   Ngữ văn:   6.75   Lịch sử:   6.00   Địa lí:   6.75   GDCD:   8.25   KHXH: 7   Tiếng Anh:   4.40
+PHẠM MAI MINH THƯ,04/04/2002,Toán:   7.80   Ngữ văn:   5.50   Lịch sử:   3.75   Địa lí:   8.25   GDCD:   8.00   KHXH: 6.67   Tiếng Anh:   2.20
+PHẠM VŨ KIM THƯ,15/06/2002,Toán:   8.00   Ngữ văn:   7.25   Vật lí:   7.25   Hóa học:   6.00   Sinh học:   4.75   KHTN: 6   Tiếng Anh:   8.40
+TẠ MINH THƯ,05/08/2002,Toán:   8.20   Ngữ văn:   7.25   Vật lí:   7.25   Hóa học:   9.00   Sinh học:   8.25   KHTN: 8.17   Tiếng Anh:   7.40
+TRẦN ANH THƯ,12/02/2002,Toán:   8.80   Ngữ văn:   6.25   Vật lí:   7.75   Hóa học:   6.75   Sinh học:   5.50   KHTN: 6.67   Tiếng Anh:   7.80
+TRẦN ANH THƯ,13/02/2002,Toán:   6.80   Ngữ văn:   7.25   Lịch sử:   5.50   Địa lí:   5.50   GDCD:   7.50   KHXH: 6.17   Tiếng Anh:   8.00
+TRẦN HOÀNG MINH THƯ,02/08/2002,Toán:   5.60   Ngữ văn:   6.00   Lịch sử:   5.00   Địa lí:   6.75   GDCD:   7.75   KHXH: 6.5   Tiếng Anh:   6.80
+TRẦN MINH THƯ,09/08/2002,Toán:   7.00   Ngữ văn:   3.75   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   7.75   KHXH: 6.67   Tiếng Anh:   3.20
+TRẦN THỊ ANH THƯ,16/03/2002,Toán:   9.00   Ngữ văn:   7.50   Vật lí:   8.00   Hóa học:   8.25   Sinh học:   4.00   KHTN: 6.75   Tiếng Anh:   7.40
+TRƯƠNG MAI PHÚC THƯ,01/11/2002,Toán:   7.80   Ngữ văn:   7.25   Vật lí:   6.00   Hóa học:   5.50   Sinh học:   5.50   KHTN: 5.67   Tiếng Anh:   6.40
+VÕ NGUYỄN ANH THƯ,11/11/2002,Toán:   7.60   Ngữ văn:   7.50   Lịch sử:   8.75   Địa lí:   7.75   GDCD:   9.00   KHXH: 8.5   Tiếng Anh:   8.20
+VÕ TRANG THƯ,26/09/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   7.25   Hóa học:   6.25   Sinh học:   7.25   KHTN: 6.92   Tiếng Anh:   4.80
+VÕ TRẦN ANH THƯ,11/05/2002,Toán:   8.80   Ngữ văn:   6.00   Vật lí:   6.50   Hóa học:   7.50   Sinh học:   5.25   KHTN: 6.42   Tiếng Anh:   4.20
+ĐẶNG NGUYỄN HOÀI THƯƠNG,22/08/2002,Toán:   9.00   Ngữ văn:   7.25   Vật lí:   6.75   Hóa học:   7.25   Sinh học:   5.25   KHTN: 6.42   Tiếng Anh:   8.40
+ĐỖ THỊ HOÀI THƯƠNG,12/07/2002,Toán:   7.80   Ngữ văn:   7.75   Lịch sử:   5.25   Địa lí:   7.00   GDCD:   8.00   KHXH: 6.75   Tiếng Anh:   7.80
+NGUYỄN ĐỖ THANH THƯƠNG,09/01/2002,Toán:   9.00   Ngữ văn:   7.75   Vật lí:   8.00   Hóa học:   6.25   Sinh học:   7.00   KHTN: 7.08   Tiếng Anh:   8.80
+NGUYỄN NGỌC THƯƠNG,21/07/2002,Toán:   6.00   Ngữ văn:   7.25   Lịch sử:   3.75   Địa lí:   5.00   GDCD:   7.75   KHXH: 5.5   Tiếng Anh:   5.60
+NGUYỄN PHÚC THƯƠNG,23/04/2002,Toán:   5.00   Ngữ văn:   5.50   Lịch sử:   3.75   Địa lí:   5.50   GDCD:   7.00   KHXH: 5.42   Tiếng Anh:   4.20
+CAO NGUYỄN HOÀNG THY,25/07/2002,Toán:   6.80   Ngữ văn:   7.25   Lịch sử:   6.75   Địa lí:   8.25   GDCD:   9.50   KHXH: 8.17   Tiếng Anh:   5.00
+ĐINH PHƯƠNG THY,20/02/2002,Toán:   8.40   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   5.75   Sinh học:   4.75   KHTN: 5.33   Tiếng Anh:   4.80
+CAO BÍCH XUÂN AN,18/04/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   7.25   Hóa học:   7.75   Sinh học:   6.75   KHTN: 7.25   Tiếng Anh:   7.60
+LƯU ĐÌNH AN,02/05/2001,Toán:   6.00   Ngữ văn:   4.50   Vật lí:   4.50   Hóa học:   4.25   Sinh học:   2.75   KHTN: 3.83   Tiếng Anh:   5.00
+PHẠM ĐỨC AN,18/06/2001,Toán:   5.80   Ngữ văn:   6.25   Lịch sử:   3.75   Địa lí:   6.50   GDCD:   7.00   KHXH: 5.75   Tiếng Anh:   4.60
+PHAN THÚY AN,15/12/2002,Toán:   7.40   Ngữ văn:   6.75   Lịch sử:   4.50   Địa lí:   7.50   GDCD:   8.50   KHXH: 6.83   Tiếng Anh:   7.40
+DƯƠNG THỤY QUỲNH ANH,16/06/2002,Toán:   6.60   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   4.00   Sinh học:   6.00   KHTN: 5.5   Tiếng Anh:   5.00
+ĐẶNG VÂN ANH,07/09/2002,Toán:   7.20   Ngữ văn:   6.25   Vật lí:   7.00   Hóa học:   4.75   Sinh học:   4.00   KHTN: 5.25   Tiếng Anh:   4.80
+ĐẶNG VIỆT ANH,02/05/2002,Toán:   7.60   Ngữ văn:   7.00   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   8.00   KHXH: 6.33   Tiếng Anh:   3.40
+ĐINH NGỌC ANH,01/01/2002,Toán:   8.80   Ngữ văn:   7.75   Vật lí:   8.00   Hóa học:   7.50   Sinh học:   6.25   KHTN: 7.25   Tiếng Anh:   7.40
+ĐOÀN QUỐC HUY ANH,06/06/2001,Toán:   7.80   Ngữ văn:   5.50   Vật lí:   6.50   Hóa học:   7.50   Sinh học:   3.75   KHTN: 5.92   Tiếng Anh:   5.00
+ĐỖ HOÀNG ANH,09/02/2002,Toán:   7.60   Ngữ văn:   5.50   Lịch sử:   5.25   Địa lí:   6.50   GDCD:   6.25   KHXH: 6   Tiếng Anh:   4.80
+HUỲNH NHỰT ANH,14/11/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   6.75   Hóa học:   5.25   Sinh học:   4.75   KHTN: 5.58   Tiếng Anh:   3.60
+HUỲNH THỊ MAI ANH,01/08/2001,Toán:   3.60   Ngữ văn:   7.00   Lịch sử:   4.50   Địa lí:   5.00   GDCD:   6.00   KHXH: 5.17   Tiếng Anh:   3.80
+LÂM NGỌC KIM ANH,26/08/2002,Toán:   6.80   Ngữ văn:   5.75   Lịch sử:   5.50   Địa lí:   7.00   GDCD:   7.75   KHXH: 6.75   Tiếng Anh:   5.80
+LÊ KIỀU ANH,26/01/2001,Toán:   7.00   Ngữ văn:   7.25   Lịch sử:   3.25   Địa lí:   7.25   GDCD:   7.50   KHXH: 6   Tiếng Anh:   2.80
+LÊ NGUYỄN ĐỨC ANH,09/12/2002,Toán:   7.00   Ngữ văn:   7.00   Lịch sử:   4.00   Địa lí:   6.25   GDCD:   7.75   KHXH: 6   Tiếng Anh:   5.20
+LÊ THỊ VÂN ANH,17/10/2002,Toán:   8.60   Ngữ văn:   6.00   Vật lí:   5.75   Hóa học:   7.50   Sinh học:   7.50   KHTN: 6.92   Tiếng Anh:   4.60
+NGUYỄN ĐÌNH VIỆT ANH,02/09/2002,Toán:   8.00   Ngữ văn:   8.25   Vật lí:   8.75   Hóa học:   4.00   Sinh học:   5.00   KHTN: 5.92   Tiếng Anh:   8.00
+NGUYỄN HOÀNG HẢI ANH,26/11/2002,Toán:   7.80   Ngữ văn:   6.75   Vật lí:   7.25   Hóa học:   8.00   Sinh học:   3.50   KHTN: 6.25   Tiếng Anh:   2.60
+NGUYỄN HOÀNG LAN ANH,04/01/2002,Toán:   8.00   Ngữ văn:   7.00   Vật lí:   4.50   Hóa học:   6.75   Sinh học:   5.25   KHTN: 5.5   Tiếng Anh:   7.80
+NGUYỄN HOÀNG MINH ANH,05/11/2002,Toán:   5.60   Ngữ văn:   6.00   Vật lí:   5.25   Hóa học:   3.50   Sinh học:   4.75   KHTN: 4.5   Tiếng Anh:   5.00
+NGUYỄN HỒNG VÂN ANH,28/04/2002,Toán:   7.20   Ngữ văn:   6.75   Lịch sử:   4.50   Địa lí:   5.50   GDCD:   7.25   KHXH: 5.75   Tiếng Anh:   5.20
+NGUYỄN NGỌC LAN ANH,09/02/2002,Toán:   8.80   Ngữ văn:   7.25   Vật lí:   7.50   Hóa học:   7.25   Sinh học:   5.25   KHTN: 6.67   Tiếng Anh:   6.00
+NGUYỄN NGỌC LAN ANH,16/09/2002,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   8.25   Địa lí:   7.50   GDCD:   8.75   KHXH: 8.17   Tiếng Anh:   7.40
+NGUYỄN NGỌC QUỲNH ANH,03/07/2002,Toán:   6.60   Ngữ văn:   7.00   Lịch sử:   4.25   Địa lí:   7.75   GDCD:   7.25   KHXH: 6.42   Tiếng Anh:   3.60
+NGUYỄN PHƯƠNG ANH,11/02/2002,Toán:   7.40   Ngữ văn:   7.00   Vật lí:   6.00   Hóa học:   7.00   Sinh học:   6.75   KHTN: 6.58   Tiếng Anh:   4.20
+NGUYỄN THỊ PHƯƠNG ANH,10/10/2002,Toán:   7.40   Ngữ văn:   7.25   Lịch sử:   5.75   Địa lí:   6.75   GDCD:   9.50   KHXH: 7.33   Tiếng Anh:   4.00
+NGUYỄN THỤY MINH ANH,31/08/2002,Toán:   6.40   Ngữ văn:   7.00   Vật lí:   5.00   Hóa học:   6.50   Sinh học:   6.25   KHTN: 5.92   Tiếng Anh:   6.80
+NGUYỄN VŨ TUẤN ANH,09/09/2002,Toán:   6.20   Ngữ văn:   5.50   Lịch sử:   4.25   Địa lí:   7.00   GDCD:   9.00   KHXH: 6.75   Tiếng Anh:   8.40
+NGUYỄN XUÂN TUẤN ANH,06/08/2002,Toán:   7.40   Ngữ văn:   7.00   Vật lí:   7.00   Hóa học:   5.75   Sinh học:   5.75   KHTN: 6.17   Tiếng Anh:   6.60
+PHẠM KỲ ANH,26/04/2001,Toán:   5.60   Ngữ văn:   5.50   Lịch sử:   4.50   Địa lí:   7.00   GDCD:   7.25   KHXH: 6.25   Tiếng Anh:   9.40
+PHẠM PHƯƠNG ANH,20/08/2002,Toán:   8.00   Ngữ văn:   7.00   Vật lí:   7.50   Hóa học:   5.50   Sinh học:   5.25   KHTN: 6.08   Tiếng Anh:   5.60
+PHẠM QUỲNH ANH,20/02/2002,Toán:   7.80   Ngữ văn:   7.25   Lịch sử:   6.00   Địa lí:   9.00   GDCD:   9.50   KHXH: 8.17   Tiếng Anh:   8.20
+TẠ MỸ ANH,27/04/2002,Toán:   5.00   Ngữ văn:   7.25   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   6.75   KHXH: 6.33   Tiếng Anh:   3.80
+THÁI VÕ DUY ANH,27/05/2002,Toán:   5.80   Ngữ văn:   3.75   Lịch sử:   4.25   Địa lí:   5.75   GDCD:   6.50   KHXH: 5.5   Tiếng Anh:   4.20
+TRẦN NGỌC ĐỨC ANH,07/03/2002,Toán:   6.80   Ngữ văn:   5.25   Lịch sử:   3.00   Địa lí:   5.50   GDCD:   8.25   KHXH: 5.58   Tiếng Anh:   7.00
+TRẦN NGỌC TUẤN ANH,23/11/2002,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   5.75   Hóa học:   8.00   Sinh học:   8.25   KHTN: 7.33   Tiếng Anh:   5.60
+TRẦN THỊ THÚY ANH,26/11/2002,Toán:   6.60   Ngữ văn:   7.50   Lịch sử:   4.00   Địa lí:   7.00   GDCD:   8.25   KHXH: 6.42   Tiếng Anh:   4.80
+TRẦN THỊ VÀNG ANH,02/01/2002,Toán:   6.80   Ngữ văn:   7.50   Lịch sử:   5.75   Địa lí:   6.50   GDCD:   8.00   KHXH: 6.75   Tiếng Anh:   6.00
+TRẦN TÚ ANH,13/11/2002,Toán:   6.80   Ngữ văn:   7.25   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.42   Tiếng Anh:   5.60
+TRƯƠNG ĐÌNH ANH,27/05/2002,Toán:   8.00   Ngữ văn:   7.25   Vật lí:   8.00   Hóa học:   7.25   Sinh học:   5.00   KHTN: 6.75   Tiếng Anh:   6.00
+VÕ THỊ NGUYÊN ANH,26/08/2002,Toán:   7.00   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   5.00   Sinh học:   5.25   KHTN: 5.25   Tiếng Anh:   4.80
+VŨ HOÀNG TUẤN ANH,27/10/2002,Toán:   7.60   Ngữ văn:   6.50   Vật lí:   7.25   Hóa học:   5.25   Sinh học:   4.75   KHTN: 5.75   Tiếng Anh:   4.20
+VŨ NGỌC MAI ANH,31/12/2002,Toán:   6.60   Ngữ văn:   7.00   Lịch sử:   3.50   Địa lí:   5.50   GDCD:   7.00   KHXH: 5.33   Tiếng Anh:   5.40
+VŨ TÚ ANH,14/03/2002,Toán:   7.60   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   5.75   Sinh học:   5.50   KHTN: 5.58   Tiếng Anh:   5.40
+ĐÀO KIM ÁNH,02/06/2002,Toán:   7.20   Ngữ văn:   8.00   Vật lí:   5.25   Hóa học:   6.50   Sinh học:   3.75   KHTN: 5.17   Tiếng Anh:   4.80
+NGUYỄN ĐÌNH NGỌC ÁNH,20/01/2002,Toán:   8.20   Ngữ văn:   6.25   Vật lí:   3.25   Hóa học:   7.00   Sinh học:   4.50   KHTN: 4.92   Tiếng Anh:   7.60
+NGUYỄN TRƯƠNG HỒNG ÁNH,01/01/2002,Toán:   5.00   Ngữ văn:   7.50   Lịch sử:   5.25   Địa lí:   7.00   GDCD:   7.25   KHXH: 6.5   Tiếng Anh:   8.20
+TRẦN PHẠM NGỌC ÁNH,22/09/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   8.00   Hóa học:   4.50   Sinh học:   5.75   KHTN: 6.08   Tiếng Anh:   7.40
+VÕ THỊ NHẬT ÁNH,06/08/2002,Toán:   6.20   Ngữ văn:   6.25   Lịch sử:   5.00   Địa lí:   6.75   GDCD:   8.75   KHXH: 6.83   Tiếng Anh:   5.40
+HUỲNH LÊ HỒNG ÂN,11/06/2002,Toán:   6.40   Ngữ văn:   7.00   Vật lí:   6.50   Hóa học:   5.50   Sinh học:   4.00   KHTN: 5.33   Tiếng Anh:   5.00
+HUỲNH NGỌC HỒNG ÂN,02/07/2000,Toán:   3.60   Ngữ văn:   6.00   Lịch sử:   4.50   Địa lí:   7.00   GDCD:   6.75   KHXH: 6.08   Tiếng Anh:   3.80
+ĐÔN TRÍ BẢO,24/11/2000,Toán:   4.80   Ngữ văn:   6.42   Lịch sử:   5.25   Địa lí:   5.25   GDCD:   8.00   KHXH: 6.17   Tiếng Anh:   2.80
+NGUYỄN CẢNH GIA BẢO,30/11/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   5.00   Hóa học:   5.25   Sinh học:   5.00   KHTN: 5.08   Tiếng Anh:   5.20
+NGUYỄN GIA BẢO,29/09/2002,Toán:   8.00   Ngữ văn:   7.00   Vật lí:   6.50   Hóa học:   6.25   Sinh học:   2.75   KHTN: 5.17   Tiếng Anh:   4.80
+NGUYỄN HOÀNG BẢO,30/05/2002,Toán:   6.00   Ngữ văn:   6.50   Lịch sử:   6.75   Địa lí:   7.00   GDCD:   8.50   KHXH: 7.42   Tiếng Anh:   5.80
+NGUYỄN LÊ HOÀNG BẢO,17/11/2002,Toán:   7.60   Ngữ văn:   8.00   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   7.00   KHXH: 6.17   Tiếng Anh:   4.40
+NGUYỄN MAI GIA BẢO,06/09/2002,Toán:   8.40   Ngữ văn:   8.00   Vật lí:   6.50   Hóa học:   5.75   Sinh học:   6.00   KHTN: 6.08   Tiếng Anh:   4.80
+TĂNG QUỐC BẢO,03/10/2002,Toán:   9.00   Ngữ văn:   8.25   Vật lí:   7.50   Hóa học:   7.75   Sinh học:   5.75   KHTN: 7   Tiếng Anh:   8.40
+TRẦN QUỐC BẢO,16/06/2002,Toán:   7.60   Ngữ văn:   6.50   Lịch sử:   3.75   Địa lí:   5.50   GDCD:   7.75   KHXH: 5.67   Tiếng Anh:   4.80
+TRỊNH THÁI BẢO,14/08/2002,Toán:   7.20   Ngữ văn:   4.75   Vật lí:   6.00   Hóa học:   7.50   Sinh học:   5.25   KHTN: 6.25   Tiếng Anh:   4.20
+NGUYỄN NGỌC BẮC,10/04/2002,Toán:   5.80   Ngữ văn:   6.50   Vật lí:   6.25   Hóa học:   3.50   Sinh học:   3.75   KHTN: 4.5   Tiếng Anh:   3.80
+NGUYỄN PHAN NGỌC BÍCH,29/03/2002,Toán:   7.40   Ngữ văn:   6.75   Lịch sử:   2.50   Địa lí:   7.25   GDCD:   7.00   KHXH: 5.58   Tiếng Anh:   4.60
+ĐẶNG TIỂU BÌNH,06/12/2002,Toán:   6.40   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   5.75   Sinh học:   5.00   KHTN: 5.75   Tiếng Anh:   6.00
+LÊ PHƯƠNG BÌNH,20/03/2002,Toán:   8.40   Ngữ văn:   6.50   Vật lí:   6.00   Hóa học:   8.00   Sinh học:   5.00   KHTN: 6.33   Tiếng Anh:   6.00
+NGUYỄN LÊ XUÂN BÌNH,13/07/2002,Toán:   7.40   Ngữ văn:   6.25   Vật lí:   2.50   Hóa học:   7.75   Sinh học:   5.75   KHTN: 5.33   Tiếng Anh:   6.20
+PHAN DOÃN BÌNH,09/06/2002,Toán:   6.40   Ngữ văn:   6.25   Lịch sử:   5.25   Địa lí:   7.00   GDCD:   8.00   KHXH: 6.75   Tiếng Anh:   6.60
+HOÀNG MINH CHÂU,21/02/2002,Toán:   7.60   Ngữ văn:   7.25   Lịch sử:   8.25   Địa lí:   9.00   GDCD:   9.25   KHXH: 8.83   Tiếng Anh:   5.60
+HỒ THỊ BẢO CHÂU,20/09/2002,Toán:   7.40   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   5.00   GDCD:   7.75   KHXH: 6   Tiếng Anh:   5.40
+MẠCH NGỌC QUỲNH CHÂU,12/06/2002,Toán:   4.80   Ngữ văn:   6.50   Lịch sử:   3.50   Địa lí:   6.00   GDCD:   6.50   KHXH: 5.33   Tiếng Anh:   3.40
+NGUYỄN DIỆP HÀNG CHÂU,14/05/2002,Toán:   7.40   Ngữ văn:   5.75   Vật lí:   6.50   Hóa học:   6.75   Sinh học:   4.75   KHTN: 6   Tiếng Anh:   4.80
+NGUYỄN KIM CHÂU,31/12/2002,Toán:   7.80   Ngữ văn:   7.75   Lịch sử:   5.75   Địa lí:   7.50   GDCD:   7.50   KHXH: 6.92   Tiếng Anh:   5.60
+NGUYỄN NGỌC BẢO CHÂU,27/11/2002,Toán:   8.00   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   7.50   KHXH: 6.33   Tiếng Anh:   7.00
+NGUYỄN NGỌC HỒNG CHÂU,26/08/2002,Toán:   7.60   Ngữ văn:   6.00   Lịch sử:   4.50   Địa lí:   6.25   GDCD:   8.25   KHXH: 6.33   Tiếng Anh:   5.00
+NGUYỄN THỊ MINH CHÂU,11/08/2002,Toán:   6.40   Ngữ văn:   5.00   Lịch sử:   4.00   Địa lí:   5.50   GDCD:   6.50   KHXH: 5.33   Tiếng Anh:   3.40
+PHAN NGỌC BẢO CHÂU,10/09/2002,Toán:   6.80   Ngữ văn:   7.75   Vật lí:   5.50   Hóa học:   5.75   Sinh học:   6.50   KHTN: 5.92   Tiếng Anh:   6.80
+LÊ HOÀNG LINH CHI,16/08/2002,Toán:   8.00   Ngữ văn:   7.00   Vật lí:   7.00   Hóa học:   6.00   Sinh học:   4.50   KHTN: 5.83   Tiếng Anh:   7.40
+NGUYỄN THỊ LỆ CHI,31/05/2002,Toán:   6.20   Ngữ văn:   6.50   Lịch sử:   3.50   Địa lí:   6.75   GDCD:   8.00   KHXH: 6.08   Tiếng Anh:   7.00
+NGUYỄN HỮU MINH CHIẾN,24/04/2001,Toán:   5.80   Ngữ văn:   7.00   Lịch sử:   7.00   Địa lí:   7.25   GDCD:   7.50   KHXH: 7.25   Tiếng Anh:   5.40
+TRẦN THANH THANH CHÚC,03/02/2002,Toán:   8.80   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   7.50   Sinh học:   8.00   KHTN: 7   Tiếng Anh:   7.40
+NGUYỄN THÀNH CÔNG,12/11/2002,Toán:   6.40   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   6.50   Sinh học:   5.00   KHTN: 5.67   Tiếng Anh:   4.80
+VÕ THÀNH CÔNG,02/07/2001,Toán:   5.60   Ngữ văn:   7.00   Lịch sử:   4.25   Địa lí:   5.50   GDCD:   7.25   KHXH: 5.67   Tiếng Anh:   4.80
+HỨA NGUYỄN ĐỨC CƯỜNG,16/05/2002,Toán:   7.60   Ngữ văn:   5.75   Vật lí:   5.50   Hóa học:   4.00   Sinh học:   3.75   KHTN: 4.42   Tiếng Anh:   5.80
+NGUYỄN THANH CƯỜNG,04/09/2002,Toán:   7.40   Ngữ văn:   3.75   Vật lí:   6.25   Hóa học:   4.00   Sinh học:   4.50   KHTN: 4.92   Tiếng Anh:   9.00
+PHẠM PHÚ CƯỜNG,21/10/2002,Toán:   5.60   Ngữ văn:   5.25   Vật lí:   5.00   Hóa học:   5.50   Sinh học:   5.50   KHTN: 5.33   Tiếng Anh:   6.40
+HUỲNH THÀNH DANH,12/02/2002,Toán:   7.00   Ngữ văn:   6.25   Vật lí:   4.75   Hóa học:   7.75   Sinh học:   6.00   KHTN: 6.17   Tiếng Anh:   6.20
+NGUYỄN THÀNH DANH,20/10/2002,Toán:   6.40   Ngữ văn:   5.75   Lịch sử:   3.25   Địa lí:   6.25   GDCD:   7.00   KHXH: 5.5   Tiếng Anh:   3.20
+PHẠM ĐĂNG DANH,12/08/2002,Toán:   7.00   Ngữ văn:   6.50   Lịch sử:   3.00   Địa lí:   6.75   GDCD:   7.50   KHXH: 5.75   Tiếng Anh:   3.80
+TRẦN ĐÌNH DANH,05/08/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   7.25   Hóa học:   8.25   Sinh học:   4.75   KHTN: 6.75   Tiếng Anh:   5.80
+TRỊNH THẾ DÂN,24/08/2002,Toán:   8.00   Ngữ văn:   5.50   Lịch sử:   4.75   Địa lí:   7.75   GDCD:   8.25   KHXH: 6.92   Tiếng Anh:   3.00
+VÕ THỊ NGỌC DIỄM,07/07/2002,Toán:   6.00   Ngữ văn:   6.75   Lịch sử:   5.50   Địa lí:   5.50   GDCD:   6.25   KHXH: 5.75   Tiếng Anh:   3.80
+PHAN DUY DIỆN,23/05/2002,Toán:   7.80   Ngữ văn:   6.50   Vật lí:   8.00   Hóa học:   7.75   Sinh học:   2.75   KHTN: 6.17   Tiếng Anh:   3.40
+VÕ THU DIỆU,23/07/2002,Toán:   7.00   Ngữ văn:   6.25   Lịch sử:   5.50   Địa lí:   7.50   GDCD:   8.25   KHXH: 7.08   Tiếng Anh:   4.20
+PHẠM THỤY NGỌC DU,22/12/2001,Toán:   7.80   Ngữ văn:   7.25   Lịch sử:   7.75   Địa lí:   8.00   GDCD:   9.00   KHXH: 8.25   Tiếng Anh:   7.60
+VÕ MINH DU,01/03/2001,Toán:   5.60   Ngữ văn:   4.50   Vật lí:   2.75   Hóa học:   6.75   Sinh học:   5.25   KHTN: 4.92   Tiếng Anh:   3.60
+TRẦN HOÀNG PHƯƠNG DUNG,20/08/2002,Toán:   7.40   Ngữ văn:   6.25   Vật lí:   6.50   Hóa học:   5.75   Sinh học:   3.75   KHTN: 5.33   Tiếng Anh:   5.40
+TRẦN THỊ THANH DUNG,29/01/2002,Toán:   6.80   Ngữ văn:   5.25   Lịch sử:   5.50   Địa lí:   3.50   GDCD:   6.25   KHXH: 5.08   Tiếng Anh:   4.40
+BÙI TRỌNG DŨNG,23/02/2001,Toán:   6.20   Ngữ văn:   5.00   Lịch sử:   3.25   Địa lí:   6.50   GDCD:   7.25   KHXH: 5.67   Tiếng Anh:   3.00
+HOÀNG NGUYỄN NGỌC DŨNG,17/08/2002,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   6.00   Hóa học:   7.50   Sinh học:   5.25   KHTN: 6.25   Tiếng Anh:   5.20
+NGÔ MINH DŨNG,02/01/2002,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   7.00   Hóa học:   4.75   Sinh học:   4.75   KHTN: 5.5   Tiếng Anh:   7.00
+NGUYỄN LINH HÙNG DŨNG,19/09/2002,Toán:   5.40   Ngữ văn:   6.25   Lịch sử:   3.50   Địa lí:   7.50   GDCD:   7.50   KHXH: 6.17   Tiếng Anh:   3.60
+NGUYỄN TẤN DŨNG,17/03/2002,Toán:   6.40   Ngữ văn:   6.50   Lịch sử:   4.75   Địa lí:   5.50   GDCD:   6.25   KHXH: 5.5   Tiếng Anh:   5.60
+NGUYỄN TIẾN DŨNG,01/04/2002,Toán:   8.00   Ngữ văn:   6.00   Vật lí:   6.75   Hóa học:   5.25   Sinh học:   4.50   KHTN: 5.5   Tiếng Anh:   6.60
+HOÀNG TIẾN DUY,18/09/2002,Toán:   7.40   Ngữ văn:   5.75   Lịch sử:   4.00   Địa lí:   6.00   GDCD:   7.25   KHXH: 5.75   Tiếng Anh:   5.20
+HUỲNH THANH DUY,26/08/2002,Toán:   6.40   Ngữ văn:   6.75   Lịch sử:   4.25   Địa lí:   6.25   GDCD:   6.00   KHXH: 5.5   Tiếng Anh:   5.40
+LÂM QUANG ANH DUY,17/08/2002,Toán:   7.80   Ngữ văn:   6.50   Vật lí:   6.75   Hóa học:   6.75   Sinh học:   5.75   KHTN: 6.42   Tiếng Anh:   5.40
+NGUYỄN ANH DUY,18/12/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   7.00   Hóa học:   5.00   Sinh học:   6.50   KHTN: 6.17   Tiếng Anh:   8.80
+NGUYỄN LÊ ANH DUY,14/05/2001,Toán:   6.00   Ngữ văn:   6.50   Lịch sử:   4.75   Địa lí:   8.25   GDCD:   9.25   KHXH: 7.42   Tiếng Anh:   5.20
+NGUYỄN PHẠM HOÀNG DUY,01/03/2002,Toán:   7.20   Ngữ văn:   7.75   Vật lí:   7.50   Hóa học:   4.00   Sinh học:   5.50   KHTN: 5.67   Tiếng Anh:   4.40
+PHAN NGỌC ANH DUY,04/01/2002,Toán:   7.80   Ngữ văn:   6.75   Vật lí:   7.00   Hóa học:   5.00   Sinh học:   4.50   KHTN: 5.5   Tiếng Anh:   6.80
+PHÙNG ĐỨC DUY,06/07/2002,Toán:   7.60   Ngữ văn:   7.25   Vật lí:   6.25   Hóa học:   5.25   Sinh học:   5.00   KHTN: 5.5   Tiếng Anh:   5.00
+TRẦN TRỌNG DUY,19/03/2002,Toán:   7.00   Ngữ văn:   7.00   Lịch sử:   6.25   Địa lí:   8.25   GDCD:   8.25   KHXH: 7.58   Tiếng Anh:   6.60
+VŨ QUANG DUY,23/12/2002,Toán:   5.40   Ngữ văn:   7.50   Lịch sử:   5.50   Địa lí:   6.75   GDCD:   6.00   KHXH: 6.08   Tiếng Anh:   5.60
+NGUYỄN DƯƠNG KIM DUYÊN,26/11/2002,Toán:   4.20   Ngữ văn:   6.25   Vật lí:   5.00   Hóa học:   4.00   Sinh học:   3.50   KHTN: 4.17   Tiếng Anh:   3.40
+NGUYỄN KIM DUYÊN,30/11/2002,Toán:   7.00   Ngữ văn:   7.50   Vật lí:   7.00   Hóa học:   5.00   Sinh học:   5.25   KHTN: 5.75   Tiếng Anh:   8.80
+NGUYỄN NGỌC DUYÊN,08/11/2002,Toán:   7.00   Ngữ văn:   7.25   Vật lí:   5.50   Hóa học:   6.00   Sinh học:   4.00   KHTN: 5.17   Tiếng Anh:   5.00
+NGUYỄN THỊ NGỌC DUYÊN,12/07/2002,Toán:   7.60   Ngữ văn:   7.00   Lịch sử:   5.50   Địa lí:   5.00   GDCD:   7.25   KHXH: 5.92   Tiếng Anh:   5.00
+PHAN THỊ NGỌC DUYÊN,03/09/2002,Toán:   6.40   Ngữ văn:   6.50   Lịch sử:   4.50   Địa lí:   5.00   GDCD:   7.25   KHXH: 5.58   Tiếng Anh:   5.40
+LÊ THÙY DƯƠNG,11/02/2002,Toán:   6.60   Ngữ văn:   6.75   Vật lí:   3.25   Hóa học:   6.25   Sinh học:   7.00   KHTN: 5.5   Tiếng Anh:   4.00
+NGUYỄN HOÀNG THÙY DƯƠNG,07/12/2002,Toán:   6.60   Ngữ văn:   6.50   Vật lí:   5.25   Hóa học:   8.00   Sinh học:   4.50   KHTN: 5.92   Tiếng Anh:   6.00
+NGUYỄN LƯƠNG THẢO DƯƠNG,03/12/2002,Toán:   5.80   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   7.25   Sinh học:   4.75   KHTN: 5.83   Tiếng Anh:   4.00
+NGUYỄN THỊ THÙY DƯƠNG,28/02/2002,Toán:   7.80   Ngữ văn:   7.50   Vật lí:   7.25   Hóa học:   4.50   Sinh học:   3.75   KHTN: 5.17   Tiếng Anh:   7.40
+PHẠM NGUYỄN ĐÔNG DƯƠNG,08/01/2002,Toán:   6.20   Ngữ văn:   6.00   Lịch sử:   3.50   Địa lí:   6.75   GDCD:   8.50   KHXH: 6.25   Tiếng Anh:   5.00
+TRỊNH VÕ TRÙNG DƯƠNG,16/12/2002,Toán:   7.20   Ngữ văn:   6.00   Lịch sử:   5.50   Địa lí:   6.00   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   4.20
+VŨ THỊ THÙY DƯƠNG,08/08/2002,Toán:   7.60   Ngữ văn:   7.75   Vật lí:   7.50   Hóa học:   8.00   Sinh học:   4.00   KHTN: 6.5   Tiếng Anh:   4.60
+LÂM BÁ ĐẠI,29/11/2001,Toán:   7.20   Ngữ văn:   7.00   Lịch sử:   6.25   Địa lí:   7.75   GDCD:   7.00   KHXH: 7   Tiếng Anh:   4.40
+TRẦN ANH ĐẠI,15/08/2001,Toán:   6.80   Ngữ văn:   6.50   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   8.00   KHXH: 6.33   Tiếng Anh:   4.00
+NGUYỄN THÚY LINH ĐAN,21/02/2002,Toán:   8.00   Ngữ văn:   5.00   Vật lí:   3.50   Hóa học:   7.50   Sinh học:   6.50   KHTN: 5.83   Tiếng Anh:   7.60
+TRẦN THẾ ĐAN,25/04/2002,Toán:   9.40   Ngữ văn:   6.50   Vật lí:   8.50   Hóa học:   8.25   Sinh học:   5.75   KHTN: 7.5   Tiếng Anh:   6.20
+THÁI LIÊU NGUYÊN ĐÁN,19/07/2002,Toán:   8.00   Ngữ văn:   6.00   Vật lí:   6.50   Hóa học:   6.25   Sinh học:   5.00   KHTN: 5.92   Tiếng Anh:   7.40
+NGUYỄN THỊ HỒNG ĐÀO,06/05/2002,Toán:   6.60   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   5.25   GDCD:   8.75   KHXH: 6.25   Tiếng Anh:   4.00
+NGUYỄN THỊ KIM ĐÀO,05/10/2001,Toán:   8.40   Ngữ văn:   6.25   Lịch sử:   4.50   Địa lí:   6.75   GDCD:   7.75   KHXH: 6.33   Tiếng Anh:   6.20
+HUỲNH TẤN ĐẠT,22/08/2002,Toán:   8.40   Ngữ văn:   7.50   Lịch sử:   5.75   Địa lí:   7.50   GDCD:   7.50   KHXH: 6.92   Tiếng Anh:   8.00
+NGUYỄN DƯƠNG TẤN ĐẠT,20/01/2001,Toán:   6.80   Ngữ văn:   6.25   Vật lí:   4.25   Hóa học:   3.00   Sinh học:   3.50   KHTN: 3.58   Tiếng Anh:   4.60
+NGUYỄN KHẮC ĐẠT,12/07/2002,Toán:   6.60   Ngữ văn:   6.25   Vật lí:   6.25   Hóa học:   6.25   Sinh học:   4.50   KHTN: 5.67   Tiếng Anh:   5.40
+NGUYỄN LÂM DANH ĐẠT,17/05/2002,Toán:   7.00   Ngữ văn:   5.50   Lịch sử:   6.00   Địa lí:   7.25   GDCD:   7.00   KHXH: 6.75   Tiếng Anh:   6.40
+NGUYỄN QUỐC ĐẠT,04/11/2002,Toán:   8.40   Ngữ văn:   7.00   Vật lí:   7.50   Hóa học:   7.50   Sinh học:   5.00   KHTN: 6.67   Tiếng Anh:   4.80
+NGUYỄN TẤN ĐẠT,19/04/2002,Toán:   6.40   Ngữ văn:   6.50   Vật lí:   3.75   Hóa học:   8.25   Sinh học:   5.50   KHTN: 5.83   Tiếng Anh:   5.20
+NGUYỄN THÀNH ĐẠT,19/02/2002,Toán:   5.20   Ngữ văn:   6.00   Lịch sử:   4.25   Địa lí:   6.00   GDCD:   7.00   KHXH: 5.75   Tiếng Anh:   4.20
+NGUYỄN THÀNH ĐẠT,22/10/2002,Toán:   7.80   Ngữ văn:   7.25   Vật lí:   4.75   Hóa học:   5.50   Sinh học:   6.50   KHTN: 5.58   Tiếng Anh:   7.20
+PHẠM THÀNH ĐẠT,12/03/2002,Toán:   7.60   Ngữ văn:   6.25   Vật lí:   7.25   Hóa học:   7.50   Sinh học:   5.25   KHTN: 6.67   Tiếng Anh:   5.60
+TRẦN HỮU ĐẠT,26/12/2002,Toán:   7.60   Ngữ văn:   6.50   Lịch sử:   5.75   Địa lí:   8.00   GDCD:   9.25   KHXH: 7.67   Tiếng Anh:   7.60
+TRẦN THÀNH ĐẠT,16/01/2002,Toán:   7.20   Ngữ văn:   5.75   Vật lí:   7.25   Hóa học:   7.50   Sinh học:   7.25   KHTN: 7.33   Tiếng Anh:   7.20
+TRẦN TIẾN ĐẠT,30/12/2002,Toán:   5.80   Ngữ văn:   6.25   Vật lí:   5.25   Hóa học:   3.25   Sinh học:   4.75   KHTN: 4.42   Tiếng Anh:   7.40
+ĐỔNG ĐÌNH ĐÌNH,13/08/2002,Toán:   6.40   Ngữ văn:   7.25   Vật lí:   6.75   Hóa học:   4.75   Sinh học:   6.75   KHTN: 6.08   Tiếng Anh:   7.00
+TRẦN HOÀNG ĐỊNH,02/04/2002,Toán:   8.00   Ngữ văn:   5.75   Lịch sử:   8.50   Địa lí:   7.75   GDCD:   9.50   KHXH: 8.58   Tiếng Anh:   8.20
+TRƯƠNG QUANG ĐỊNH,31/10/2002,Toán:   7.20   Ngữ văn:   7.25   Lịch sử:   7.75   Địa lí:   8.00   GDCD:   6.50   KHXH: 7.42   Tiếng Anh:   4.60
+ĐINH NGUYỄN THỤC ĐOAN,05/03/2002,Toán:   8.00   Ngữ văn:   6.25   Lịch sử:   6.75   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.83   Tiếng Anh:   8.40
+LƯƠNG THÀNH ĐÔ,17/12/2002,Toán:   7.60   Ngữ văn:   7.25   Vật lí:   5.25   Hóa học:   6.50   Sinh học:   4.75   KHTN: 5.5   Tiếng Anh:   2.80
+LÊ QUÝ ĐÔN,16/12/2002,Toán:   4.20   Ngữ văn:   7.25   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   7.50   KHXH: 6.33   Tiếng Anh:   7.60
+ĐOÀN PHƯƠNG ĐÔNG,30/10/2002,Toán:   8.00   Ngữ văn:   7.75   Vật lí:   7.00   Hóa học:   7.50   Sinh học:   6.50   KHTN: 7   Tiếng Anh:   5.40
+NGUYỄN DƯƠNG ĐÔNG,27/08/2002,Toán:   6.00   Ngữ văn:   5.25   Lịch sử:   5.50   Địa lí:   6.75   GDCD:   7.00   KHXH: 6.42   Tiếng Anh:   3.80
+LÊ HUỲNH ĐỨC,16/03/2002,Toán:   7.40   Ngữ văn:   5.50   Lịch sử:   5.25   Địa lí:   7.00   GDCD:   7.50   KHXH: 6.58   Tiếng Anh:   4.20
+NGÔ HOÀNG ĐỨC,13/10/2001,Toán:   7.60   Ngữ văn:   5.75   Lịch sử:   5.75   Địa lí:   5.75   GDCD:   8.50   KHXH: 6.67   Tiếng Anh:   4.40
+NGUYỄN MINH ĐỨC,19/05/2002,Toán:   6.80   Ngữ văn:   3.75   Vật lí:   4.75   Hóa học:   5.25   Sinh học:   5.75   KHTN: 5.25   Tiếng Anh:   6.60
+NGUYỄN PHÚC ĐỨC,15/06/2002,Toán:   7.80   Ngữ văn:   6.08   Lịch sử:   5.50   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.42   Tiếng Anh:   5.60
+PHẠM KHẮC PHÚ ĐỨC,08/09/2002,Toán:   5.80   Ngữ văn:   6.25   Lịch sử:   3.50   Địa lí:   5.75   GDCD:   6.25   KHXH: 5.17   Tiếng Anh:   5.60
+ĐỖ HOÀNG GIA,02/01/2002,Toán:   4.60   Ngữ văn:   5.00   Lịch sử:   4.25   Địa lí:   5.50   GDCD:   7.25   KHXH: 5.67   Tiếng Anh:   3.80
+GIANG THỊ TRÚC GIANG,27/02/2002,Toán:   6.20   Ngữ văn:   7.25   Lịch sử:   5.75   Địa lí:   6.00   GDCD:   7.75   KHXH: 6.5   Tiếng Anh:   8.00
+NGUYỄN HƯƠNG GIANG,11/09/2002,Toán:   4.80   Ngữ văn:   4.50   Lịch sử:   4.75   Địa lí:   7.00   GDCD:   6.75   KHXH: 6.17   Tiếng Anh:   4.00
+NGUYỄN TRƯỜNG GIANG,03/12/2000,Toán:   6.40   Ngữ văn:   6.25   Lịch sử:   5.25   Địa lí:   5.75   GDCD:   8.00   KHXH: 6.33   Tiếng Anh:   3.20
+PHẠM NGUYỄN TRƯỜNG GIANG,01/05/2002,Toán:   7.80   Ngữ văn:   6.50   Vật lí:   7.75   Hóa học:   4.00   Sinh học:   4.75   KHTN: 5.5   Tiếng Anh:   6.60
+NGUYỄN LÊ NGỌC GIÀU,15/02/2002,Toán:   7.20   Ngữ văn:   6.50   Lịch sử:   3.25   Địa lí:   6.25   GDCD:   8.00   KHXH: 5.83   Tiếng Anh:   4.40
+ĐÀO THÁI HÀ,11/12/2002,Toán:   4.80   Ngữ văn:   7.75   Lịch sử:   4.75   Địa lí:   6.00   GDCD:   8.50   KHXH: 6.42   Tiếng Anh:   5.20
+HOÀNG NGUYỄN HẢI HÀ,06/01/2002,Toán:   7.20   Ngữ văn:   7.00   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   8.75   KHXH: 7   Tiếng Anh:   6.60
+NGUYỄN PHƯƠNG HÀ,08/09/2002,Toán:   6.00   Ngữ văn:   7.00   Vật lí:   5.25   Hóa học:   5.50   Sinh học:   4.50   KHTN: 5.08   Tiếng Anh:   4.60
+TÔ VĂN HÀ,15/04/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   6.50   Hóa học:   8.00   Sinh học:   5.25   KHTN: 6.58   Tiếng Anh:   5.60
+TRẦN HOÀNG NGÂN HÀ,14/09/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   5.50   Hóa học:   5.00   Sinh học:   6.75   KHTN: 5.75   Tiếng Anh:   6.80
+LỖ HỒNG HẢI,13/03/2002,Toán:   7.80   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   4.25   Sinh học:   3.75   KHTN: 4.5   Tiếng Anh:   3.00
+TRẦN MINH HẢI,28/10/2002,Toán:   8.60   Ngữ văn:   6.00   Vật lí:   4.50   Hóa học:   4.75   Sinh học:   5.50   KHTN: 4.92   Tiếng Anh:   7.60
+LÊ NGUYÊN QUỐC HÀO,06/03/2002,Toán:   5.20   Ngữ văn:   3.75   Lịch sử:   5.25   Địa lí:   6.75   GDCD:   8.75   KHXH: 6.92
+LÊ NHẬT HÀO,06/08/2002,Toán:   6.80   Ngữ văn:   7.50   Lịch sử:   5.75   Địa lí:   5.25   GDCD:   7.00   KHXH: 6   Tiếng Anh:   3.60
+VÕ NHẬT HÀO,12/12/2002,Toán:   7.40   Ngữ văn:   6.75   Lịch sử:   3.75   Địa lí:   7.00   GDCD:   7.25   KHXH: 6   Tiếng Anh:   5.60
+BÙI NGUYỄN XUÂN HẢO,06/06/2002,Toán:   7.40   Ngữ văn:   7.25   Lịch sử:   4.25   Địa lí:   5.75   GDCD:   6.50   KHXH: 5.5   Tiếng Anh:   2.80
+NGUYỄN HOÀNG NGUYÊN HẢO,24/11/2002,Toán:   8.20   Ngữ văn:   6.75   Vật lí:   6.75   Hóa học:   8.25   Sinh học:   7.00   KHTN: 7.33   Tiếng Anh:   5.60
+TĂNG THỊ NGỌC HẢO,04/12/2002,Toán:   7.00   Ngữ văn:   7.00   Lịch sử:   4.25   Địa lí:   6.75   GDCD:   9.00   KHXH: 6.67   Tiếng Anh:   4.60
+NGÔ THỊ KIM HẰNG,24/02/2001,Toán:   7.60   Ngữ văn:   6.50   Vật lí:   5.50   Hóa học:   7.75   Sinh học:   5.25   KHTN: 6.17   Tiếng Anh:   3.80
+NGUYỄN HUỲNH YẾN HẰNG,07/05/2002,Toán:   7.60   Ngữ văn:   6.75   Lịch sử:   6.25   Địa lí:   7.00   GDCD:   9.25   KHXH: 7.5   Tiếng Anh:   5.40
+NGUYỄN THỊ THANH HẰNG,15/03/2002,Toán:   6.00   Ngữ văn:   6.00   Lịch sử:   5.75   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   4.60
+NGUYỄN THỊ TUYẾT HẰNG,18/06/2002,Toán:   7.20   Ngữ văn:   7.25   Lịch sử:   5.25   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.33   Tiếng Anh:   8.20
+TRƯƠNG THỊ THÚY HẰNG,22/12/2002,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   6.75   Hóa học:   8.00   Sinh học:   5.25   KHTN: 6.67   Tiếng Anh:   4.00
+VÕ THỊ HẰNG,19/11/2002,Toán:   7.80   Ngữ văn:   6.25   Vật lí:   6.50   Hóa học:   7.50   Sinh học:   6.25   KHTN: 6.75   Tiếng Anh:   5.20
+VÕ THỊ THÚY HẰNG,07/07/2001,Toán:   6.80   Ngữ văn:   6.75   Vật lí:   4.00   Hóa học:   4.75   Sinh học:   5.50   KHTN: 4.75   Tiếng Anh:   4.80
+ĐOÀN NGỌC HÂN,28/05/2002,Toán:   4.60   Ngữ văn:   6.75   Lịch sử:   3.50   Địa lí:   6.00   GDCD:   6.50   KHXH: 5.33   Tiếng Anh:   4.60
+KIỀU LÊ BẢO HÂN,24/01/2002,Toán:   8.00   Ngữ văn:   7.25   Lịch sử:   8.75   Địa lí:   8.75   GDCD:   9.00   KHXH: 8.83   Tiếng Anh:   8.00
+NGUYỄN LÊ GIA HÂN,02/11/2001,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   6.00   Hóa học:   4.50   Sinh học:   3.50   KHTN: 4.67   Tiếng Anh:   5.40
+NGUYỄN NGÔ BẢO HÂN,19/03/2002,Toán:   7.40   Ngữ văn:   7.50   Lịch sử:   4.25   Địa lí:   7.25   GDCD:   8.50   KHXH: 6.67   Tiếng Anh:   7.00
+PHAN NGỌC HÂN,30/12/2002,Toán:   8.20   Ngữ văn:   7.75   Vật lí:   6.50   Hóa học:   7.75   Sinh học:   6.25   KHTN: 6.83   Tiếng Anh:   6.20
+VÕ TRẦN GIA HÂN,24/02/2002,Toán:   8.20   Ngữ văn:   7.50   Lịch sử:   6.00   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.58   Tiếng Anh:   4.40
+PHẠM TRUNG HẬU,01/02/2002,Toán:   7.80   Ngữ văn:   7.00   Vật lí:   5.25   Hóa học:   3.75   Sinh học:   6.00   KHTN: 5   Tiếng Anh:   5.00
+HUỲNH THỊ TRÚC HIỀN,27/12/2002,Toán:   8.80   Ngữ văn:   6.75   Vật lí:   6.50   Hóa học:   7.25   Sinh học:   6.25   KHTN: 6.67   Tiếng Anh:   7.80
+LÂM THỊ NGỌC HIỀN,21/11/2002,Toán:   5.80   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   7.00   Sinh học:   5.25   KHTN: 5.92   Tiếng Anh:   2.80
+LÊ HỒNG HIỀN,25/05/2002,Toán:   8.00   Ngữ văn:   8.00   Vật lí:   2.50   Hóa học:   5.50   Sinh học:   4.25   KHTN: 4.08   Tiếng Anh:   5.60
+LÊ LỄ HIỀN,27/10/2002,Toán:   7.40   Ngữ văn:   7.00   Lịch sử:   5.50   Địa lí:   6.50   GDCD:   9.00   KHXH: 7   Tiếng Anh:   4.40
+NGUYỄN THỊ DIỆU HIỀN,06/01/2002,Toán:   5.00   Ngữ văn:   6.25   Vật lí:   4.75   Hóa học:   4.00   Sinh học:   4.25   KHTN: 4.33   Tiếng Anh:   3.80
+THÁI NGUYỄN NGỌC HIỀN,26/09/2002,Toán:   5.60   Ngữ văn:   6.50   Lịch sử:   5.75   Địa lí:   6.25   GDCD:   7.00   KHXH: 6.33   Tiếng Anh:   6.20
+TRANG THANH HIỀN,21/08/2002,Toán:   8.60   Ngữ văn:   5.25   Vật lí:   3.50   Hóa học:   7.25   Sinh học:   5.75   KHTN: 5.5   Tiếng Anh:   3.80
+TRẦN THỊ THU HIỀN,01/01/2002,Toán:   6.60   Ngữ văn:   5.75   Lịch sử:   3.25   Địa lí:   5.25   GDCD:   6.00   KHXH: 4.83   Tiếng Anh:   3.20
+NGÔ TẤN HIỆP,11/03/2002,Toán:   7.60   Ngữ văn:   6.75   Vật lí:   6.00   Hóa học:   6.00   Sinh học:   4.25   KHTN: 5.42   Tiếng Anh:   4.60
+NGUYỄN VĂN HIỆP,11/07/2002,Toán:   8.40   Ngữ văn:   5.50   Vật lí:   8.00   Hóa học:   4.50   Sinh học:   4.25   KHTN: 5.58   Tiếng Anh:   7.00
+TỐNG PHÚ HIỆP,28/08/2002,Toán:   6.00   Ngữ văn:   5.25   Vật lí:   4.00   Hóa học:   6.25   Sinh học:   4.00   KHTN: 4.75   Tiếng Anh:   7.60
+LÂM TRUNG HIẾU,12/02/2002,Toán:   5.20   Ngữ văn:   6.25   Vật lí:   6.75   Hóa học:   7.00   Sinh học:   6.25   KHTN: 6.67   Tiếng Anh:   5.20
+NGUYỄN CHÍ HIẾU,30/11/2002,Toán:   7.20   Ngữ văn:   5.50   Vật lí:   6.75   Hóa học:   7.25   Sinh học:   6.25   KHTN: 6.75   Tiếng Anh:   6.40
+NGUYỄN HOÀNG HIẾU,25/12/2002,Toán:   6.00   Ngữ văn:   5.50   Vật lí:   5.25   Hóa học:   4.50   Sinh học:   5.50   KHTN: 5.08   Tiếng Anh:   4.80
+NGUYỄN MINH HIẾU,03/10/2002,Toán:   6.80   Ngữ văn:   5.75   Lịch sử:   4.75   Địa lí:   7.00   GDCD:   8.00   KHXH: 6.58   Tiếng Anh:   5.60
+NGUYỄN THÁI MINH HIẾU,04/02/2002,Toán:   7.40   Ngữ văn:   6.00   Vật lí:   5.25   Hóa học:   5.25   Sinh học:   5.75   KHTN: 5.42   Tiếng Anh:   7.40
+PHẠM NHƯ TRỌNG HIẾU,31/08/2002,Toán:   6.60   Ngữ văn:   5.25   Vật lí:   7.50   Hóa học:   4.75   Sinh học:   6.25   KHTN: 6.17   Tiếng Anh:   5.00
+VIÊN NGỌC TRẦM HOA,01/01/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   3.50   Hóa học:   8.00   Sinh học:   5.00   KHTN: 5.5   Tiếng Anh:   5.80
+NGUYỄN KHÁNH HÒA,08/07/2002,Toán:   4.60   Ngữ văn:   6.00   Lịch sử:   7.25   Địa lí:   5.25   GDCD:   7.25   KHXH: 6.58   Tiếng Anh:   6.00
+TRẦN TẤN HÒA,21/11/2002,Toán:   6.60   Ngữ văn:   6.75   Vật lí:   4.00   Hóa học:   5.25   Sinh học:   4.50   KHTN: 4.58   Tiếng Anh:   5.40
+CHU ĐÌNH THÁI HOÀNG,03/02/2002,Toán:   3.80   Ngữ văn:   5.50   Lịch sử:   2.50   Địa lí:   3.50   GDCD:   6.50   KHXH: 4.17   Tiếng Anh:   3.00
+NGUYỄN HUY HOÀNG,18/09/2002,Toán:   6.20   Ngữ văn:   5.75   Vật lí:   5.25   Hóa học:   6.50   Sinh học:   5.25   KHTN: 5.67   Tiếng Anh:   5.00
+TẠ HUY HOÀNG,18/12/2002,Toán:   6.80   Ngữ văn:   6.75   Lịch sử:   5.75   Địa lí:   6.00   GDCD:   7.25   KHXH: 6.33   Tiếng Anh:   6.00
+NGUYỄN HOÀNG ĐỨC HUÂN,18/01/2002,Toán:   6.80   Ngữ văn:   7.50   Lịch sử:   5.50   Địa lí:   6.25   GDCD:   7.50   KHXH: 6.42   Tiếng Anh:   8.40
+NGUYỄN THỊ DANH HUÊ,06/08/2002,Toán:   7.00   Ngữ văn:   3.25   Lịch sử:   2.50   Địa lí:   4.75   GDCD:   6.50   KHXH: 4.58   Tiếng Anh:   5.20
+ĐỖ THỊ HUẾ,18/01/2002,Toán:   8.60   Ngữ văn:   7.25   Vật lí:   6.00   Hóa học:   6.50   Sinh học:   6.00   KHTN: 6.17   Tiếng Anh:   5.60
+DƯƠNG QUỐC HÙNG,19/10/2002,Toán:   7.60   Ngữ văn:   7.75   Vật lí:   7.00   Hóa học:   4.25   Sinh học:   5.25   KHTN: 5.5   Tiếng Anh:   4.20
+ĐẶNG HOÀNG GIA HÙNG,02/03/2002,Toán:   6.60   Ngữ văn:   6.50   Vật lí:   8.00   Hóa học:   5.75   Sinh học:   6.25   KHTN: 6.67   Tiếng Anh:   3.80
+HOÀNG HỒ TRỌNG HÙNG,05/07/2002,Toán:   7.40   Ngữ văn:   6.25   Vật lí:   5.75   Hóa học:   5.25   Sinh học:   4.50   KHTN: 5.17   Tiếng Anh:   6.00
+HỨA QUỐC HÙNG,10/09/2002,Toán:   6.60   Ngữ văn:   7.00   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   8.00   KHXH: 6.33   Tiếng Anh:   3.60
+LÝ QUỐC HÙNG,06/12/2002,Toán:   6.60   Ngữ văn:   7.25   Lịch sử:   6.00   Địa lí:   8.50   GDCD:   9.00   KHXH: 7.83   Tiếng Anh:   5.80
+NGUYỄN NAM HÙNG,21/02/2002,Toán:   8.60   Ngữ văn:   7.25   Vật lí:   7.75   Hóa học:   7.75   Sinh học:   5.50   KHTN: 7   Tiếng Anh:   7.00
+NGUYỄN QUỐC HÙNG,11/05/2002,Toán:   6.40   Ngữ văn:   7.75   Lịch sử:   5.25   Địa lí:   6.50   GDCD:   8.50   KHXH: 6.75   Tiếng Anh:   3.20
+PHẠM MẠNH HÙNG,06/12/2002,Toán:   8.00   Ngữ văn:   6.25   Vật lí:   6.50   Hóa học:   7.50   Sinh học:   6.25   KHTN: 6.75   Tiếng Anh:   5.80
+TRẦN VĂN HÙNG,19/11/2002,Toán:   8.00   Ngữ văn:   7.25   Lịch sử:   3.25   Địa lí:   6.75   GDCD:   6.25   KHXH: 5.42   Tiếng Anh:   6.80
+BÙI GIA HUY,10/05/2002,Toán:   6.60   Ngữ văn:   6.50   Vật lí:   4.50   Hóa học:   5.25   Sinh học:   4.75   KHTN: 4.83   Tiếng Anh:   4.20
+HUỲNH NHẬT HUY,04/01/2002,Toán:   7.60   Ngữ văn:   6.50   Lịch sử:   5.25   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.42   Tiếng Anh:   6.80
+NGUYỄN ANH HUY,11/06/2002,Toán:   6.40   Ngữ văn:   6.50   Lịch sử:   5.25   Địa lí:   6.75   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   4.20
+NGUYỄN HOÀNG HUY,02/04/2002,Toán:   5.80   Ngữ văn:   5.00   Lịch sử:   5.75   Địa lí:   8.25   GDCD:   8.75   KHXH: 7.58   Tiếng Anh:   7.00
+NGUYỄN LÊ MINH HUY,29/03/2001,Toán:   6.00   Ngữ văn:   6.25   Vật lí:   4.00   Hóa học:   5.00   Sinh học:   4.75   KHTN: 4.58   Tiếng Anh:   5.80
+NGUYỄN NGỌC HUY,23/07/2002,Toán:   7.20   Ngữ văn:   7.00   Lịch sử:   5.75   Địa lí:   7.25   GDCD:   8.75   KHXH: 7.25   Tiếng Anh:   7.80
+NGUYỄN NGỌC HUY,26/04/2002,Toán:   8.40   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   6.00   GDCD:   7.25   KHXH: 6.17   Tiếng Anh:   5.80
+NGUYỄN QUỐC GIA HUY,25/06/2002,Toán:   5.00   Ngữ văn:   6.00   Vật lí:   5.75   Hóa học:   3.00   Sinh học:   4.50   KHTN: 4.42   Tiếng Anh:   5.80
+NGUYỄN TRẦN THẾ HUY,22/10/2002,Toán:   6.60   Ngữ văn:   7.25   Vật lí:   6.25   Hóa học:   6.25   Sinh học:   4.50   KHTN: 5.67   Tiếng Anh:   3.80
+PHAN GIA HUY,29/07/2002,Toán:   8.80   Ngữ văn:   7.25   Vật lí:   8.50   Hóa học:   7.25   Sinh học:   5.50   KHTN: 7.08   Tiếng Anh:   8.60
+PHAN QUỐC HUY,21/03/2002,Toán:   5.20   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   5.00   Sinh học:   4.75   KHTN: 5.08   Tiếng Anh:   4.40
+TĂNG VŨ QUỐC HUY,22/01/2002,Toán:   5.40   Ngữ văn:   7.50   Lịch sử:   3.50   Địa lí:   6.00   GDCD:   6.50   KHXH: 5.33   Tiếng Anh:   2.40
+TÔN ANH HUY,01/03/2002,Toán:   7.80   Ngữ văn:   8.00   Vật lí:   6.50   Hóa học:   7.75   Sinh học:   5.00   KHTN: 6.42   Tiếng Anh:   8.20
+TRẦN GIA HUY,30/11/2002,Toán:   8.40   Ngữ văn:   7.00   Vật lí:   6.25   Hóa học:   4.75   Sinh học:   5.50   KHTN: 5.5   Tiếng Anh:   6.60
+NGUYỄN THỊ MINH HUYỀN,06/12/2002,Toán:   6.20   Ngữ văn:   6.50   Vật lí:   3.50   Hóa học:   4.00   Sinh học:   3.75   KHTN: 3.75   Tiếng Anh:   4.20
+VÕ THANH HUYỀN,23/09/2002,Toán:   7.80   Ngữ văn:   7.25   Vật lí:   5.50   Hóa học:   7.50   Sinh học:   5.50   KHTN: 6.17   Tiếng Anh:   6.00
+ĐẶNG QUỐC HƯNG,22/06/2002,Toán:   6.40   Ngữ văn:   7.25   Lịch sử:   3.75   Địa lí:   8.25   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   4.60
+HÀ PHÁT HƯNG,06/06/2000,Toán:   4.40   Ngữ văn:   4.75   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   9.00   KHXH: 6.83   Tiếng Anh:   5.00
+LÊ CHÂU GIA HƯNG,02/12/2002,Toán:   6.40   Ngữ văn:   7.00   Lịch sử:   4.25   Địa lí:   7.75   GDCD:   9.25   KHXH: 7.08   Tiếng Anh:   7.60
+LÊ NGUYỄN TIẾN HƯNG,09/04/2002,Toán:   8.40   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   7.75   GDCD:   8.75   KHXH: 7.25   Tiếng Anh:   8.60
+LƯƠNG HOÀNG BẢO HƯNG,16/01/2002,Toán:   5.40   Ngữ văn:   6.25   Lịch sử:   5.75   Địa lí:   7.00   GDCD:   7.00   KHXH: 6.58   Tiếng Anh:   4.20
+LƯƠNG THỊ PHÚC HƯNG,24/05/2002,Toán:   6.80   Ngữ văn:   8.00   Vật lí:   5.50   Hóa học:   6.75   Sinh học:   4.75   KHTN: 5.67   Tiếng Anh:   5.60
+NGUYỄN DUY HƯNG,07/02/2002,Toán:   9.80   Ngữ văn:   5.25   Vật lí:   9.50   Hóa học:   8.75   Sinh học:   5.50   KHTN: 7.92   Tiếng Anh:   3.00
+NGUYỄN ĐỨC HƯNG,22/10/2002,Toán:   5.00   Ngữ văn:   6.25   Lịch sử:   4.00   Địa lí:   6.00   GDCD:   7.00   KHXH: 5.67   Tiếng Anh:   4.20
+NGUYỄN QUỐC HƯNG,26/09/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   6.25   Hóa học:   6.00   Sinh học:   5.25   KHTN: 5.83   Tiếng Anh:   4.00
+NGUYỄN TẤN HƯNG,23/12/2002,Toán:   3.80   Ngữ văn:   6.25   Lịch sử:   2.50   Địa lí:   5.75   GDCD:   6.75   KHXH: 5   Tiếng Anh:   3.00
+NGUYỄN VIỆT HƯNG,21/08/2002,Toán:   6.40   Ngữ văn:   5.75   Vật lí:   5.25   Hóa học:   3.75   Sinh học:   6.25   KHTN: 5.08   Tiếng Anh:   4.00
+PHẠM TẤN HƯNG,10/05/2002,Toán:   8.00   Ngữ văn:   6.75   Vật lí:   6.00   Hóa học:   5.00   Sinh học:   4.50   KHTN: 5.17   Tiếng Anh:   7.00
+PHAN NGUYỄN DUY HƯNG,26/04/2002,Toán:   7.60   Ngữ văn:   5.50   Lịch sử:   5.25   Địa lí:   7.75   GDCD:   7.75   KHXH: 6.92   Tiếng Anh:   7.20
+ĐÀO PHÚC HƯƠNG,31/08/2002,Toán:   6.20   Ngữ văn:   5.00   Lịch sử:   6.00   Địa lí:   5.25   GDCD:   6.25   KHXH: 5.83   Tiếng Anh:   5.40
+LÊ VŨ QUỲNH HƯƠNG,20/12/2002,Toán:   8.60   Ngữ văn:   6.75   Lịch sử:   5.25   Địa lí:   7.25   GDCD:   9.50   KHXH: 7.33   Tiếng Anh:   8.80
+NGUYỄN THỊ THU HƯƠNG,07/10/2002,Toán:   7.80   Ngữ văn:   7.00   Vật lí:   5.75   Hóa học:   4.50   Sinh học:   4.50   KHTN: 4.92   Tiếng Anh:   4.40
+NGUYỄN THỊ TUYẾT HƯƠNG,22/05/2002,Toán:   5.60   Ngữ văn:   6.00   Vật lí:   3.75   Hóa học:   4.75   Sinh học:   3.00   KHTN: 3.83   Tiếng Anh:   3.20
+NGUYỄN THỊ XUÂN HƯƠNG,09/12/2002,Toán:   7.00   Ngữ văn:   7.00   Lịch sử:   5.00   Địa lí:   6.00   GDCD:   8.75   KHXH: 6.58   Tiếng Anh:   4.40
+PHẠM QUỲNH HƯƠNG,18/07/2002,Toán:   7.20   Ngữ văn:   6.00   Lịch sử:   6.25   Địa lí:   6.75   GDCD:   8.50   KHXH: 7.17   Tiếng Anh:   7.40
+PHẠM TRẦN HUỲNH HƯƠNG,14/08/2002,Toán:   7.00   Ngữ văn:   6.50   Vật lí:   5.25   Hóa học:   6.50   Sinh học:   6.25   KHTN: 6   Tiếng Anh:   6.40
+PHAN TUYẾT HƯƠNG,12/06/2002,Toán:   6.80   Ngữ văn:   7.50   Lịch sử:   4.00   Địa lí:   6.75   GDCD:   8.75   KHXH: 6.5   Tiếng Anh:   5.20
+CAO GIA HY,08/05/2002,Toán:   7.20   Ngữ văn:   7.00   Vật lí:   6.25   Hóa học:   7.50   Sinh học:   6.00   KHTN: 6.58   Tiếng Anh:   5.20
+TRƯƠNG NGUYỄN GIA HY,30/01/2002,Toán:   7.60   Ngữ văn:   6.00   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   8.50   KHXH: 6.92   Tiếng Anh:   8.20
+KHỔNG THANH PHÚ KHA,09/10/2002,Toán:   7.00   Ngữ văn:   7.25   Vật lí:   4.50   Hóa học:   4.50   Sinh học:   4.50   KHTN: 4.5   Tiếng Anh:   4.80
+NGÔ TRỌNG KHẢI,19/04/2002,Toán:   4.80   Ngữ văn:   6.25   Lịch sử:   5.50   Địa lí:   7.25   GDCD:   6.75   KHXH: 6.5   Tiếng Anh:   3.20
+DƯƠNG CHÍ KHANG,20/11/2002,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   5.25   Hóa học:   2.50   Sinh học:   4.00   KHTN: 3.92   Tiếng Anh:   6.00
+NGUYỄN DUY KHANG,05/01/2002,Toán:   7.20   Ngữ văn:   7.00   Vật lí:   6.00   Hóa học:   5.00   Sinh học:   4.75   KHTN: 5.25   Tiếng Anh:   6.00
+TĂNG HƯNG PHÁT,23/02/2002,Toán:   7.40   Ngữ văn:   6.50   Lịch sử:   5.50   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.75   Tiếng Anh:   3.20
+VÕ TẤN PHÁT,24/04/2002,Toán:   7.20   Ngữ văn:   5.25   Lịch sử:   4.00   Địa lí:   7.50   GDCD:   5.25   KHXH: 5.58   Tiếng Anh:   5.40
+PHAN NGUYỄN HOÀNG PHI,27/10/2002,Toán:   7.60   Ngữ văn:   7.50   Lịch sử:   3.50   Địa lí:   6.00   GDCD:   7.25   KHXH: 5.58   Tiếng Anh:   4.60
+TRẦN THANH PHONG,21/05/2002,Toán:   6.20   Ngữ văn:   6.50   Lịch sử:   4.50   Địa lí:   5.25   GDCD:   7.75   KHXH: 5.83   Tiếng Anh:   4.80
+NGUYỄN THỊ MINH THƯ,09/01/2002,Toán:   8.00   Ngữ văn:   6.25   Vật lí:   6.75   Hóa học:   7.50   Sinh học:   6.50   KHTN: 6.92   Tiếng Anh:   5.20
+ĐẶNG HOÀNG THỨC,26/01/2002,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   6.00   Hóa học:   6.75   Sinh học:   4.00   KHTN: 5.58   Tiếng Anh:   4.20
+HUỲNH NGỌC MAI THƯƠNG,08/02/2001,Toán:   2.40   Ngữ văn:   6.75   Lịch sử:   1.50   Địa lí:   3.50   GDCD:   4.25   KHXH: 3.08   Tiếng Anh:   3.80
+LÊ THỊ XUÂN THƯƠNG,08/04/2002,Toán:   5.00   Ngữ văn:   6.00   Lịch sử:   3.25   Địa lí:   4.75   GDCD:   5.75   KHXH: 4.58   Tiếng Anh:   3.20
+PHÙ LÊ HOÀI THƯƠNG,04/08/2001,Toán:   7.60   Ngữ văn:   7.75   Lịch sử:   4.00   Địa lí:   7.75   GDCD:   8.75   KHXH: 6.83   Tiếng Anh:   7.60
+TRẦN THẾ THƯƠNG,30/09/2002,Toán:   8.00   Ngữ văn:   8.25   Vật lí:   6.75   Hóa học:   5.50   Sinh học:   6.00   KHTN: 6.08   Tiếng Anh:   7.00
+BÙI NGỌC MINH THY,25/05/2002,Toán:   7.40   Ngữ văn:   7.50   Vật lí:   4.75   Hóa học:   4.50   Sinh học:   5.25   KHTN: 4.83   Tiếng Anh:   4.20
+NGUYỄN HOÀNG MAI THY,07/05/2002,Toán:   7.80   Ngữ văn:   6.75   Vật lí:   7.00   Hóa học:   7.25   Sinh học:   5.50   KHTN: 6.58   Tiếng Anh:   6.20
+NGUYỄN HỒNG DIỄM THY,18/12/2002,Toán:   6.60   Ngữ văn:   7.50   Vật lí:   3.50   Hóa học:   7.75   Sinh học:   4.75   KHTN: 5.33   Tiếng Anh:   8.00
+NGUYỄN NGỌC PHƯƠNG THY,21/02/2002,Toán:   6.80   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   5.50   GDCD:   8.75   KHXH: 6.42   Tiếng Anh:   5.00
+NGUYỄN NGỌC THY,04/08/2002,Toán:   5.60   Ngữ văn:   7.75   Lịch sử:   4.25   Địa lí:   6.75   GDCD:   8.25   KHXH: 6.42   Tiếng Anh:   5.80
+NGUYỄN THỊ ANH THY,01/11/2002,Toán:   7.60   Ngữ văn:   6.50   Vật lí:   5.00   Hóa học:   8.25   Sinh học:   6.00   KHTN: 6.42   Tiếng Anh:   8.80
+TRẦN MINH THY,24/07/2002,Toán:   5.60   Ngữ văn:   5.50   Lịch sử:   3.25   Địa lí:   6.50   GDCD:   6.50   KHXH: 5.42   Tiếng Anh:   5.00
+BÙI THANH THỦY TIÊN,12/11/2002,Toán:   6.60   Ngữ văn:   6.25   Vật lí:   6.00   Hóa học:   5.00   Sinh học:   4.75   KHTN: 5.25   Tiếng Anh:   6.20
+HUỲNH NGUYỄN CẨM TIÊN,28/01/2002,Toán:   8.00   Ngữ văn:   7.00   Lịch sử:   4.25   Địa lí:   5.00   GDCD:   9.00   KHXH: 6.08   Tiếng Anh:   4.60
+NGUYỄN CHÂU THỦY TIÊN,25/11/2002,Toán:   7.40   Ngữ văn:   7.16   Vật lí:   6.50   Hóa học:   6.50   Sinh học:   6.75   KHTN: 6.58   Tiếng Anh:   5.00
+NGUYỄN QUANG MỸ TIÊN,13/11/2002,Toán:   8.00   Ngữ văn:   7.25   Lịch sử:   5.00   Địa lí:   7.75   GDCD:   8.75   KHXH: 7.17   Tiếng Anh:   5.00
+NGUYỄN THỊ THỦY TIÊN,26/07/2002,Toán:   6.60   Ngữ văn:   8.00   Lịch sử:   4.75   Địa lí:   6.25   GDCD:   8.00   KHXH: 6.33   Tiếng Anh:   4.40
+TRƯƠNG THỊ NGỌC TIÊN,24/12/2002,Toán:   7.20   Ngữ văn:   6.50   Vật lí:   6.50   Hóa học:   6.75   Sinh học:   5.75   KHTN: 6.33   Tiếng Anh:   5.20
+VÕ HOÀNG KIỀU TIÊN,25/03/2002,Toán:   5.60   Ngữ văn:   7.50   Lịch sử:   3.00   Địa lí:   6.75   GDCD:   8.50   KHXH: 6.08   Tiếng Anh:   3.80
+VÕ THỊ KIỀU TIÊN,29/06/2002,Toán:   4.60   Ngữ văn:   8.00   Lịch sử:   4.00   Địa lí:   5.50   GDCD:   8.75   KHXH: 6.08   Tiếng Anh:   4.00
+ĐẶNG THỊ KIM TIỀN,11/03/2002,Toán:   6.80   Ngữ văn:   6.75   Lịch sử:   4.75   Địa lí:   5.50   GDCD:   8.00   KHXH: 6.08   Tiếng Anh:   4.40
+CAO ĐÌNH TIẾN,26/05/2002,Toán:   6.20   Ngữ văn:   6.75   Lịch sử:   2.25   Địa lí:   6.75   GDCD:   8.25   KHXH: 5.75   Tiếng Anh:   3.60
+ĐOÀN CÔNG TIẾN,06/12/2002,Toán:   7.60   Ngữ văn:   6.25   Vật lí:   4.50   Hóa học:   6.25   Sinh học:   3.75   KHTN: 4.83   Tiếng Anh:   6.00
+LƯƠNG TRỌNG TIẾN,28/01/2002,Toán:   5.60   Ngữ văn:   5.75   Vật lí:   4.25   Hóa học:   4.00   Sinh học:   4.25   KHTN: 4.17   Tiếng Anh:   3.00
+NGUYỄN QUỐC TIẾN,15/09/2002,Toán:   6.00   Ngữ văn:   6.50   Lịch sử:   5.75   Địa lí:   7.00   GDCD:   7.75   KHXH: 6.83   Tiếng Anh:   4.20
+DƯƠNG ĐỨC TÍN,01/05/2002,Toán:   4.20   Ngữ văn:   5.75   Lịch sử:   3.25   Địa lí:   6.25   GDCD:   7.50   KHXH: 5.67   Tiếng Anh:   3.20
+NGUYỄN TRỌNG TÍN,02/12/2002,Toán:   6.40   Ngữ văn:   6.25   Vật lí:   3.25   Hóa học:   5.00   Sinh học:   3.50   KHTN: 3.92   Tiếng Anh:   4.00
+NGUYỄN TRUNG TÍN,27/03/2001,Toán:   7.40   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   8.00   GDCD:   8.00   KHXH: 6.92   Tiếng Anh:   3.60
+PHAN THÀNH TÍN,03/11/2002,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   6.75   Sinh học:   4.50   KHTN: 5.92   Tiếng Anh:   5.20
+ĐỖ NGUYỄN XUÂN TOÀN,01/09/2002,Toán:   8.20   Ngữ văn:   6.75   Vật lí:   6.25   Hóa học:   8.25   Sinh học:   5.00   KHTN: 6.5   Tiếng Anh:   8.00
+ĐINH VĂN TỚI,13/06/2002,Toán:   7.20   Ngữ văn:   6.50   Vật lí:   6.50   Hóa học:   4.25   Sinh học:   3.75   KHTN: 4.83   Tiếng Anh:   4.60
+BÙI THỊ HUYỀN TRANG,30/05/2002,Toán:   6.40   Ngữ văn:   7.50   Lịch sử:   3.25   Địa lí:   5.50   GDCD:   8.00   KHXH: 5.58   Tiếng Anh:   5.80
+LÊ THỊ THU TRANG,16/07/2002,Toán:   7.80   Ngữ văn:   6.50   Vật lí:   3.75   Hóa học:   8.50   Sinh học:   5.00   KHTN: 5.75   Tiếng Anh:   7.40
+MAI THANH TRANG,19/08/2002,Toán:   8.00   Ngữ văn:   6.00   Lịch sử:   5.50   Địa lí:   6.00   GDCD:   8.00   KHXH: 6.5   Tiếng Anh:   4.40
+NGUYỄN NHẬT THU TRANG,14/10/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   4.25   Hóa học:   5.75   Sinh học:   5.75   KHTN: 5.25   Tiếng Anh:   6.20
+NGUYỄN PHƯỚC LINH TRANG,06/11/2002,Toán:   7.20   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   5.50   Sinh học:   5.00   KHTN: 5.67   Tiếng Anh:   5.20
+NGUYỄN THỊ NGỌC TRANG,25/11/2002,Toán:   6.00   Ngữ văn:   7.00   Vật lí:   7.00   Hóa học:   6.50   Sinh học:   4.25   KHTN: 5.92   Tiếng Anh:   4.20
+NGUYỄN THỊ PHƯƠNG TRANG,26/12/2002,Toán:   6.20   Ngữ văn:   7.25   Lịch sử:   2.50   Địa lí:   5.25   GDCD:   4.25   KHXH: 4   Tiếng Anh:   3.60
+NGUYỄN THỊ THÙY TRANG,21/08/2002,Toán:   5.20   Ngữ văn:   7.50   Lịch sử:   3.00   Địa lí:   5.75   GDCD:   7.25   KHXH: 5.33   Tiếng Anh:   5.40
+PHẠM MINH TRANG,23/03/2002,Toán:   8.00   Ngữ văn:   6.00   Vật lí:   6.25   Hóa học:   5.00   Sinh học:   5.25   KHTN: 5.5   Tiếng Anh:   6.00
+PHẠM THỊ THÙY TRANG,02/06/2002,Toán:   5.80   Ngữ văn:   7.00   Vật lí:   5.25   Hóa học:   4.25   Sinh học:   4.00   KHTN: 4.5   Tiếng Anh:   3.40
+TRẦN KIM THÙY TRANG,02/07/2002,Toán:   6.60   Ngữ văn:   7.75   Lịch sử:   3.75   Địa lí:   5.75   GDCD:   9.25   KHXH: 6.25   Tiếng Anh:   4.40
+TRẦN THỊ THÙY TRANG,25/11/2002,Toán:   8.20   Ngữ văn:   7.33   Vật lí:   5.75   Hóa học:   7.75   Sinh học:   6.00   KHTN: 6.5   Tiếng Anh:   8.60
+HÀ THỊ NGỌC TRÂM,28/02/2002,Toán:   7.00   Ngữ văn:   6.00   Lịch sử:   1.50   Địa lí:   6.25   GDCD:   7.00   KHXH: 4.92   Tiếng Anh:   4.40
+HOÀNG TÔN BẢO TRÂM,14/12/2002,Toán:   8.00   Ngữ văn:   8.50   Lịch sử:   4.75   Địa lí:   6.75   GDCD:   9.00   KHXH: 6.83   Tiếng Anh:   7.80
+LÂM BÍCH TRÂM,13/04/2002,Toán:   6.00   Ngữ văn:   7.00   Vật lí:   2.50   Hóa học:   3.75   Sinh học:   4.75   KHTN: 3.67   Tiếng Anh:   4.00
+LÊ THỊ NGỌC TRÂM,19/10/2001,Toán:   7.00   Ngữ văn:   5.75   Lịch sử:   3.50   Địa lí:   4.50   GDCD:   6.75   KHXH: 4.92   Tiếng Anh:   4.20
+NGUYỄN THỊ NGỌC TRÂM,02/08/2002,Toán:   7.60   Ngữ văn:   7.50   Vật lí:   6.75   Hóa học:   6.50   Sinh học:   5.50   KHTN: 6.25   Tiếng Anh:   6.20
+PHAN NGỌC HOÀI TRÂM,24/04/2002,Toán:   7.40   Ngữ văn:   7.50   Vật lí:   6.75   Hóa học:   7.00   Sinh học:   6.00   KHTN: 6.58   Tiếng Anh:   6.00
+PHAN NGỌC TRÂM,12/11/2002,Toán:   9.40   Ngữ văn:   7.00   Vật lí:   7.75   Hóa học:   7.75   Sinh học:   6.25   KHTN: 7.25   Tiếng Anh:   8.80
+THÂN TRỌNG NHÃ TRÂM,20/10/2002,Toán:   6.60   Ngữ văn:   7.75   Lịch sử:   3.50   Địa lí:   7.25   GDCD:   8.75   KHXH: 6.5   Tiếng Anh:   6.80
+TRANG PHẠM BÍCH TRÂM,30/01/2002,Toán:   7.80   Ngữ văn:   7.75   Vật lí:   4.00   Hóa học:   6.50   Sinh học:   6.25   KHTN: 5.58   Tiếng Anh:   6.40
+TRẦN NGỌC BÍCH TRÂM,02/08/2002,Toán:   8.20   Ngữ văn:   7.75   Vật lí:   7.25   Hóa học:   6.50   Sinh học:   5.50   KHTN: 6.42   Tiếng Anh:   7.20
+TRẦN THỊ NGỌC TRÂM,07/03/2002,Toán:   5.60   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   6.50   Sinh học:   4.25   KHTN: 5.42   Tiếng Anh:   3.80
+NGUYỄN NGỌC BẢO TRÂN,11/03/2002,Toán:   4.80   Ngữ văn:   7.50   Lịch sử:   4.00   Địa lí:   3.50   GDCD:   6.25   KHXH: 4.58   Tiếng Anh:   3.80
+NGUYỄN THỊ NGỌC TRÂN,24/11/2002,Toán:   6.60   Ngữ văn:   7.25   Lịch sử:   3.50   Địa lí:   6.25   GDCD:   7.00   KHXH: 5.58   Tiếng Anh:   5.00
+NGUYỄN THỊ THU TRÂN,16/09/2002,Toán:   6.00   Ngữ văn:   7.25   Lịch sử:   3.75   Địa lí:   6.25   GDCD:   8.75   KHXH: 6.25   Tiếng Anh:   4.00
+TRẦN HỒ BẢO TRÂN,07/11/2002,Toán:   8.60   Ngữ văn:   7.25   Vật lí:   7.75   Hóa học:   7.00   Sinh học:   6.75   KHTN: 7.17   Tiếng Anh:   6.60
+TRẦN NGUYỄN BẢO TRÂN,09/10/2002,Toán:   6.80   Ngữ văn:   7.25   Lịch sử:   4.50   Địa lí:   5.50   GDCD:   7.75   KHXH: 5.92   Tiếng Anh:   5.00
+TRẦN TRƯƠNG NGỌC TRÂN,14/02/2002,Toán:   8.00   Ngữ văn:   7.50   Lịch sử:   3.25   Địa lí:   7.75   GDCD:   9.25   KHXH: 6.75   Tiếng Anh:   4.20
+ĐỖ ANH TRÍ,06/11/2002,Toán:   6.20   Ngữ văn:   7.25   Lịch sử:   3.50   Địa lí:   6.75   GDCD:   8.50   KHXH: 6.25   Tiếng Anh:   4.60
+PHẠM MINH TRÍ,31/01/2002,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   5.00   Hóa học:   8.00   Sinh học:   4.75   KHTN: 5.92   Tiếng Anh:   4.60
+TRẦN LÊ THANH TRÍ,09/10/2002,Toán:   7.60   Ngữ văn:   6.00   Lịch sử:   6.00   Địa lí:   6.25   GDCD:   7.75   KHXH: 6.67   Tiếng Anh:   4.00
+HUỲNH NGỌC TUYẾT TRINH,22/02/2002,Toán:   7.60   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   4.50   Sinh học:   4.75   KHTN: 5.25   Tiếng Anh:   5.20
+NGUYỄN KHANH TRINH,29/06/2002,Toán:   7.60   Ngữ văn:   7.50   Vật lí:   4.25   Hóa học:   4.00   Sinh học:   6.50   KHTN: 4.92   Tiếng Anh:   7.00
+PHAN THỊ TÚ TRINH,23/04/2002,Toán:   5.60   Ngữ văn:   7.25   Vật lí:   5.75   Hóa học:   3.75   Sinh học:   3.75   KHTN: 4.42   Tiếng Anh:   4.60
+NGUYỄN HUY TRỌNG,23/09/2002,Toán:   8.60   Ngữ văn:   6.00   Vật lí:   7.75   Hóa học:   7.50   Sinh học:   5.75   KHTN: 7   Tiếng Anh:   5.60
+DƯƠNG NGỌC THANH TRÚC,23/08/2002,Toán:   7.20   Ngữ văn:   6.50   Vật lí:   4.75   Hóa học:   5.75   Sinh học:   4.00   KHTN: 4.83   Tiếng Anh:   4.60
+NGÔ THANH TRÚC,22/12/2002,Toán:   7.20   Ngữ văn:   5.75   Lịch sử:   4.75   Địa lí:   7.25   GDCD:   8.00   KHXH: 6.67   Tiếng Anh:   7.60
+NGUYỄN THANH TRÚC,27/08/2002,Toán:   8.40   Ngữ văn:   5.75   Vật lí:   7.75   Hóa học:   7.00   Sinh học:   7.50   KHTN: 7.42   Tiếng Anh:   8.80
+NGUYỄN THI THANH TRÚC,02/11/2002,Toán:   7.80   Ngữ văn:   8.00   Vật lí:   4.00   Hóa học:   4.25   Sinh học:   6.00   KHTN: 4.75   Tiếng Anh:   5.20
+NGUYỄN THỊ THANH TRÚC,28/11/2002,Toán:   8.20   Ngữ văn:   7.25   Vật lí:   7.75   Hóa học:   7.50   Sinh học:   6.50   KHTN: 7.25   Tiếng Anh:   7.60
+TRẦN THỊ THANH TRÚC,24/07/2002,Toán:   6.80   Ngữ văn:   6.25   Vật lí:   3.50   Hóa học:   6.00   Sinh học:   4.00   KHTN: 4.5   Tiếng Anh:   4.40
+DIỆP THIỆN TRUNG,16/11/2002,Toán:   7.00   Ngữ văn:   6.25   Lịch sử:   4.00   Địa lí:   6.50   GDCD:   9.00   KHXH: 6.5   Tiếng Anh:   6.60
+ĐẶNG QUỐC TRUNG,11/01/2002,Toán:   7.00   Ngữ văn:   6.50   Vật lí:   5.50   Hóa học:   5.25   Sinh học:   6.50   KHTN: 5.75   Tiếng Anh:   6.00
+ĐOÀN NGUYỄN TIẾN TRUNG,29/08/2002,Toán:   8.20   Ngữ văn:   6.75   Lịch sử:   5.75   Địa lí:   7.00   GDCD:   9.00   KHXH: 7.25   Tiếng Anh:   6.60
+NGUYỄN CHÍ TRUNG,19/02/2002,Toán:   5.60   Ngữ văn:   6.00   Vật lí:   2.25   Hóa học:   5.00   Sinh học:   4.00   KHTN: 3.75   Tiếng Anh:   4.20
+NGUYỄN ĐỨC TRUNG,02/10/2002,Toán:   8.20   Ngữ văn:   6.25   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   7.25   KHXH: 6.08   Tiếng Anh:   4.40
+NGUYỄN MẠNH ĐỨC TRUNG,19/11/2002,Toán:   7.80   Ngữ văn:   6.75   Vật lí:   5.25   Hóa học:   6.25   Sinh học:   5.00   KHTN: 5.5   Tiếng Anh:   5.60
+NGUYỄN MINH TRUNG,10/08/2002,Toán:   8.40   Ngữ văn:   6.50   Vật lí:   7.50   Hóa học:   7.75   Sinh học:   4.75   KHTN: 6.67   Tiếng Anh:   5.60
+NGUYỄN NGUYÊN TRUNG,14/10/2002,Toán:   8.60   Ngữ văn:   6.50   Lịch sử:   4.50   Địa lí:   6.00   GDCD:   6.75   KHXH: 5.75   Tiếng Anh:   5.60
+NGUYỄN QUỐC TRUNG,11/09/2002,Toán:   8.00   Ngữ văn:   7.25   Vật lí:   7.00   Hóa học:   7.50   Sinh học:   7.00   KHTN: 7.17   Tiếng Anh:   6.00
+NGUYỄN TẤN TRUNG,28/01/2002,Toán:   7.20   Ngữ văn:   3.50   Vật lí:   7.25   Hóa học:   3.25   Sinh học:   4.50   KHTN: 5   Tiếng Anh:   6.40
+NGUYỄN VIỆT TRUNG,22/02/2001,Toán:   6.40   Ngữ văn:   7.50   Lịch sử:   6.25   Địa lí:   7.75   GDCD:   8.00   KHXH: 7.33   Tiếng Anh:   4.40
+PHẠM MINH TRUNG,15/05/2001,Toán:   7.20   Ngữ văn:   7.50   Vật lí:   3.75   Hóa học:   6.75   Sinh học:   5.75   KHTN: 5.42   Tiếng Anh:   8.60
+TRẦN THÀNH TRUNG,20/06/2002,Toán:   9.00   Ngữ văn:   6.50   Vật lí:   9.00   Hóa học:   9.00   Sinh học:   6.50   KHTN: 8.17   Tiếng Anh:   4.80
+PHAN TRUNG TRỰC,28/06/2002,Toán:   7.40   Ngữ văn:   7.00   Vật lí:   6.75   Hóa học:   6.50   Sinh học:   5.25   KHTN: 6.17   Tiếng Anh:   4.00
+LÊ DƯƠNG NHẬT TRƯỜNG,18/03/2002,Toán:   7.60   Ngữ văn:   7.00   Vật lí:   6.50   Hóa học:   3.25   Sinh học:   5.25   KHTN: 5   Tiếng Anh:   6.40
+NGUYỄN KHÁNH TRƯỜNG,21/04/2002,Toán:   4.60   Ngữ văn:   6.75   Lịch sử:   4.25   Địa lí:   5.25   GDCD:   7.00   KHXH: 5.5   Tiếng Anh:   2.80
+NGUYỄN NHẬT TRƯỜNG,23/05/2002,Toán:   6.60   Ngữ văn:   6.50   Lịch sử:   5.75   Địa lí:   6.75   GDCD:   7.75   KHXH: 6.75   Tiếng Anh:   4.60
+NGUYỄN QUANG TRƯỜNG,22/07/2002,Toán:   7.40   Ngữ văn:   7.00   Vật lí:   3.50   Hóa học:   5.25   Sinh học:   4.25   KHTN: 4.33   Tiếng Anh:   7.20
+DƯƠNG NGỌC THANH TÚ,09/06/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   6.25   Hóa học:   7.25   Sinh học:   6.00   KHTN: 6.5   Tiếng Anh:   5.20
+HUỲNH ANH TÚ,21/02/2002,Toán:   8.60   Ngữ văn:   7.00   Vật lí:   7.00   Hóa học:   8.50   Sinh học:   6.00   KHTN: 7.17   Tiếng Anh:   5.20
+NGUYỄN CẨM TÚ,04/02/2002,Toán:   7.60   Ngữ văn:   7.00   Vật lí:   5.00   Hóa học:   6.50   Sinh học:   6.50   KHTN: 6   Tiếng Anh:   7.00
+PHẠM TINH TÚ,23/11/2002,Toán:   8.60   Ngữ văn:   7.00   Vật lí:   5.25   Hóa học:   7.75   Sinh học:   6.25   KHTN: 6.42   Tiếng Anh:   8.00
+TRẦN ANH TÚ,15/06/2002,Toán:   7.40   Ngữ văn:   5.75   Vật lí:   7.00   Hóa học:   8.00   Sinh học:   4.75   KHTN: 6.58   Tiếng Anh:   4.00
+VÕ VĂN TÚ,25/10/2002,Toán:   5.00   Ngữ văn:   6.25   Lịch sử:   7.50   Địa lí:   6.50   GDCD:   7.00   KHXH: 7   Tiếng Anh:   5.00
+LÊ ANH TUẤN,03/04/2002,Toán:   6.80   Ngữ văn:   6.50   Vật lí:   6.50   Hóa học:   5.25   Sinh học:   5.00   KHTN: 5.58   Tiếng Anh:   4.40
+LÊ QUANG TUẤN,04/12/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   6.75   Hóa học:   4.75   Sinh học:   5.50   KHTN: 5.67   Tiếng Anh:   4.80
+NGUYỄN ANH TUẤN,06/07/2002,Toán:   6.20   Ngữ văn:   6.25   Lịch sử:   6.50   Địa lí:   7.00   GDCD:   7.50   KHXH: 7   Tiếng Anh:   4.60
+NGUYỄN HOÀNG TUẤN,11/03/2002,Toán:   6.40   Ngữ văn:   6.50   Vật lí:   5.00   Hóa học:   5.00   Sinh học:   4.50   KHTN: 4.83   Tiếng Anh:   4.00
+NGUYỄN MINH ANH TUẤN,11/12/2002,Toán:   7.60   Ngữ văn:   6.50   Lịch sử:   4.25   Địa lí:   6.25   GDCD:   7.25   KHXH: 5.92   Tiếng Anh:   5.00
+NGUYỄN THÁI TUẤN,04/06/2002,Toán:   7.20   Ngữ văn:   5.75   Lịch sử:   5.25   Địa lí:   5.25   GDCD:   8.00   KHXH: 6.17   Tiếng Anh:   5.80
+NGUYỄN VŨ ANH TUẤN,17/02/2002,Toán:   7.80   Ngữ văn:   7.50   Vật lí:   7.75   Hóa học:   7.50   Sinh học:   5.00   KHTN: 6.75   Tiếng Anh:   5.00
+PHẠM THANH TUẤN,13/01/2002,Toán:   8.00   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   7.25   Sinh học:   6.50   KHTN: 6.42   Tiếng Anh:   6.60
+PHẠM VĂN ANH TUẤN,11/08/2002,Toán:   7.80   Ngữ văn:   6.25   Vật lí:   7.75   Hóa học:   5.50   Sinh học:   6.00   KHTN: 6.42   Tiếng Anh:   7.00
+PHAN LÊ TUẤN,20/10/2002,Toán:   6.80   Ngữ văn:   6.25   Vật lí:   7.25   Hóa học:   5.25   Sinh học:   4.25   KHTN: 5.58   Tiếng Anh:   6.80
+TRẦN NGỌC TUẤN,02/06/2002,Toán:   6.20   Ngữ văn:   5.00   Vật lí:   5.50   Hóa học:   3.75   Sinh học:   3.25   KHTN: 4.17   Tiếng Anh:   5.40
+TRẦN QUỐC TUẤN,07/10/2001,Toán:   4.80   Ngữ văn:   5.00   Lịch sử:   6.25   Địa lí:   5.75   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   3.60
+VÕ THIÊN TUẤN,19/10/2001,Toán:   8.40   Ngữ văn:   8.00   Vật lí:   8.00   Hóa học:   5.50   Sinh học:   3.75   KHTN: 5.75   Tiếng Anh:   4.80
+VÕ HỮU TÚC,12/07/2001,Toán:   6.60   Ngữ văn:   7.50   Lịch sử:   2.00   Địa lí:   7.00   GDCD:   8.75   KHXH: 5.92   Tiếng Anh:   7.20
+DƯƠNG THANH TÙNG,28/02/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   7.25   Hóa học:   8.25   Sinh học:   5.75   KHTN: 7.08   Tiếng Anh:   5.60
+NGUYỄN TRÍ TÙNG,16/05/2002,Toán:   7.20   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   7.25   GDCD:   8.50   KHXH: 6.83   Tiếng Anh:   6.20
+TRẦN NGUYỄN SƠN TÙNG,02/02/2002,Toán:   7.00   Ngữ văn:   6.75   Vật lí:   5.00   Hóa học:   5.75   Sinh học:   6.50   KHTN: 5.75   Tiếng Anh:   7.40
+VÕ ĐAN TÙNG,10/12/2002,Toán:   8.60   Ngữ văn:   6.50   Vật lí:   8.50   Hóa học:   8.25   Sinh học:   4.00   KHTN: 6.92   Tiếng Anh:   4.80
+LÂM THỊ CẨM TUYỀN,10/09/2000,Toán:   6.60   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   9.50   KHXH: 7   Tiếng Anh:   4.20
+NGUYỄN THANH TUYỀN,02/05/2002,Toán:   7.20   Ngữ văn:   7.25   Lịch sử:   4.00   Địa lí:   6.00   GDCD:   7.25   KHXH: 5.75   Tiếng Anh:   3.20
+NGUYỄN THANH TUYỀN,30/10/2002,Toán:   8.40   Ngữ văn:   7.00   Vật lí:   6.25   Hóa học:   8.25   Sinh học:   6.75   KHTN: 7.08   Tiếng Anh:   5.60
+NGUYỄN THỊ MỘNG TUYỀN,13/06/2002,Toán:   7.60   Ngữ văn:   7.25   Lịch sử:   5.75   Địa lí:   7.50   GDCD:   8.25   KHXH: 7.17   Tiếng Anh:   5.80
+PHAN THỊ THANH TUYỀN,08/03/2002,Toán:   6.00   Ngữ văn:   7.50   Lịch sử:   3.00   Địa lí:   5.75   GDCD:   8.75   KHXH: 5.83   Tiếng Anh:   5.00
+TRẦN THỊ BÍCH TUYỀN,07/07/2002,Toán:   7.00   Ngữ văn:   7.50   Lịch sử:   4.75   Địa lí:   6.50   GDCD:   9.25   KHXH: 6.83   Tiếng Anh:   5.00
+TRẦN THỊ KIM TUYỀN,22/08/2002,Toán:   8.60   Ngữ văn:   6.75   Vật lí:   6.50   Hóa học:   5.50   Sinh học:   6.25   KHTN: 6.08   Tiếng Anh:   6.60
+ĐOÀN THỤY ÁNH TUYẾT,05/02/2002,Toán:   6.60   Ngữ văn:   7.50   Vật lí:   5.00   Hóa học:   3.25   Sinh học:   3.25   KHTN: 3.83   Tiếng Anh:   4.60
+ĐOÀN HỒNG PHƯƠNG UYÊN,23/01/2002,Toán:   7.20   Ngữ văn:   7.00   Vật lí:   6.75   Hóa học:   8.00   Sinh học:   7.50   KHTN: 7.42   Tiếng Anh:   4.60
+HUỲNH THỊ THẢO UYÊN,25/01/2002,Toán:   6.60   Ngữ văn:   7.75   Lịch sử:   4.50   Địa lí:   7.25   GDCD:   9.75   KHXH: 7.17   Tiếng Anh:   5.40
+LÂM LÝ PHƯƠNG UYÊN,04/05/2001,Toán:   4.40   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   6.00   GDCD:   6.25   KHXH: 5.75   Tiếng Anh:   3.80
+NGUYỄN HỒ PHƯƠNG UYÊN,28/11/2002,Toán:   7.80   Ngữ văn:   7.25   Vật lí:   5.75   Hóa học:   7.75   Sinh học:   6.25   KHTN: 6.58   Tiếng Anh:   3.40
+NGUYỄN NGỌC UYÊN UYÊN,03/09/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   5.00   Hóa học:   6.25   Sinh học:   5.00   KHTN: 5.42   Tiếng Anh:   6.60
+NGUYỄN THỊ MAI UYÊN,08/11/2002,Toán:   7.20   Ngữ văn:   8.00   Vật lí:   7.00   Hóa học:   7.00   Sinh học:   6.25   KHTN: 6.75   Tiếng Anh:   5.40
+TRẦN THỊ TỐ UYÊN,11/03/2002,Toán:   8.00   Ngữ văn:   7.75   Vật lí:   7.00   Hóa học:   7.75   Sinh học:   4.50   KHTN: 6.42   Tiếng Anh:   5.00
+VÕ HUỲNH PHƯƠNG UYÊN,07/06/2001,Toán:   7.60   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   5.75   GDCD:   6.50   KHXH: 5.67   Tiếng Anh:   6.20
+PHẠM TINH VĂN,23/11/2002,Toán:   8.20   Ngữ văn:   7.25   Vật lí:   3.75   Hóa học:   5.25   Sinh học:   5.25   KHTN: 4.75   Tiếng Anh:   6.60
+ĐỖ NGUYỄN THANH VÂN,06/12/2002,Toán:   8.40   Ngữ văn:   5.50   Vật lí:   7.00   Hóa học:   4.00   Sinh học:   5.75   KHTN: 5.58   Tiếng Anh:   6.00
+HỒ NGỌC THANH VÂN,16/06/2002,Toán:   8.40   Ngữ văn:   6.50   Vật lí:   4.25   Hóa học:   4.25   Sinh học:   4.25   KHTN: 4.25   Tiếng Anh:   4.40
+HUỲNH NGỌC THÙY VÂN,29/07/2002,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   8.75   KHXH: 7   Tiếng Anh:   5.60
+LÊ HẢI VÂN,25/12/2002,Toán:   6.60   Ngữ văn:   6.75   Lịch sử:   5.25   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.42   Tiếng Anh:   5.00
+NGUYỄN ĐẶNG THANH VÂN,01/09/2002,Toán:   7.40   Ngữ văn:   7.50   Lịch sử:   8.50   Địa lí:   8.25   GDCD:   8.50   KHXH: 8.42   Tiếng Anh:   5.80
+NGUYỄN ĐỖ UYÊN VÂN,03/04/2002,Toán:   6.40   Ngữ văn:   7.75   Lịch sử:   4.25   Địa lí:   7.00   GDCD:   8.00   KHXH: 6.42   Tiếng Anh:   5.40
+NGUYỄN NGỌC TƯỜNG VÂN,16/10/2002,Toán:   8.00   Ngữ văn:   5.75   Vật lí:   7.50   Hóa học:   4.50   Sinh học:   4.50   KHTN: 5.5   Tiếng Anh:   5.20
+PHẠM NGUYỄN MỸ VÂN,17/06/2002,Toán:   8.80   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   7.00   Sinh học:   6.25   KHTN: 6.58   Tiếng Anh:   7.20
+TRẦN MINH VÂN,20/01/2002,Toán:   7.60   Ngữ văn:   7.00   Lịch sử:   2.75   Địa lí:   6.75   GDCD:   7.75   KHXH: 5.75   Tiếng Anh:   9.00
+HỒ NGUYỄN TƯỜNG VI,18/11/2001,Toán:   6.00   Ngữ văn:   7.75   Lịch sử:   3.75   Địa lí:   5.00   GDCD:   6.50   KHXH: 5.08   Tiếng Anh:   3.00
+NGUYỄN PHỤNG VI,29/06/2002,Toán:   7.20   Ngữ văn:   7.50   Vật lí:   7.25   Hóa học:   7.50   Sinh học:   7.25   KHTN: 7.33   Tiếng Anh:   3.60
+LÊ HOÀNG VĨ,06/02/2002,Toán:   7.60   Ngữ văn:   6.75   Vật lí:   5.75   Hóa học:   6.50   Sinh học:   5.75   KHTN: 6   Tiếng Anh:   7.40
+NGUYỄN ĐỨC VIỆT,02/12/2002,Toán:   9.00   Ngữ văn:   7.50   Vật lí:   7.75   Hóa học:   7.00   Sinh học:   4.25   KHTN: 6.33   Tiếng Anh:   5.00
+NGUYỄN QUỐC VIỆT,08/11/2002,Toán:   6.40   Ngữ văn:   7.00   Vật lí:   5.00   Hóa học:   7.50   Sinh học:   5.50   KHTN: 6   Tiếng Anh:   6.80
+TRƯƠNG HỮU VIỆT,10/08/2002,Toán:   6.20   Ngữ văn:   6.25   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   3.40
+NGUYỄN THÀNH VINH,02/08/2002,Toán:   7.40   Ngữ văn:   6.00   Vật lí:   4.75   Hóa học:   4.50   Sinh học:   6.00   KHTN: 5.08   Tiếng Anh:   2.60
+NGUYỄN TRẦN THẾ VINH,20/01/2002,Toán:   7.20   Ngữ văn:   6.00   Vật lí:   5.25   Hóa học:   7.00   Sinh học:   6.00   KHTN: 6.08   Tiếng Anh:   4.40
+VÕ PHƯƠNG VINH,05/07/2002,Toán:   7.40   Ngữ văn:   7.50   Lịch sử:   5.75   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.5   Tiếng Anh:   4.80
+HỒ NGỌC ANH VŨ,14/04/2002,Toán:   6.40   Ngữ văn:   6.75   Lịch sử:   3.75   Địa lí:   6.50   GDCD:   7.50   KHXH: 5.92   Tiếng Anh:   4.00
+LÊ HOÀNG VŨ,28/01/2002,Toán:   6.60   Ngữ văn:   8.00   Vật lí:   6.50   Hóa học:   5.25   Sinh học:   5.25   KHTN: 5.67   Tiếng Anh:   5.20
+NGUYỄN HOÀNG ANH VŨ,28/09/2000,Toán:   6.60   Ngữ văn:   6.75   Vật lí:   5.25   Hóa học:   4.75   Sinh học:   5.50   KHTN: 5.17   Tiếng Anh:   4.40
+PHAN HỒ THANH VŨ,06/02/2002,Toán:   6.60   Ngữ văn:   5.75   Vật lí:   6.75   Hóa học:   8.00   Sinh học:   6.00   KHTN: 6.92   Tiếng Anh:   8.40
+VÕ HUY VŨ,11/10/2002,Toán:   7.80   Ngữ văn:   6.75   Lịch sử:   5.75   Địa lí:   7.00   GDCD:   8.75   KHXH: 7.17   Tiếng Anh:   4.80
+VÕ TRƯỜNG VŨ,07/11/2001,Toán:   8.40   Ngữ văn:   6.50   Vật lí:   6.25   Hóa học:   6.50   Sinh học:   4.50   KHTN: 5.75   Tiếng Anh:   5.20
+BÙI NGỌC THANH VY,16/01/2002,Toán:   8.00   Ngữ văn:   6.25   Vật lí:   4.75   Hóa học:   6.00   Sinh học:   3.75   KHTN: 4.83   Tiếng Anh:   6.20
+BÙI THỊNH VY,20/08/2002,Toán:   7.40   Ngữ văn:   7.00   Vật lí:   5.50   Hóa học:   6.25   Sinh học:   5.75   KHTN: 5.83   Tiếng Anh:   7.40
+ĐẶNG THỊ ĐANG VY,10/11/2002,Toán:   7.40   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   8.00   GDCD:   9.00   KHXH: 7.42   Tiếng Anh:   8.20
+ĐỖ NGỌC XUÂN VY,12/09/2002,Toán:   7.80   Ngữ văn:   6.25   Vật lí:   6.25   Hóa học:   7.00   Sinh học:   6.50   KHTN: 6.58   Tiếng Anh:   7.60
+LÊ NGUYỄN THÚY VY,09/02/2002,Toán:   6.60   Ngữ văn:   5.50   Lịch sử:   3.00   Địa lí:   4.75   GDCD:   6.25   KHXH: 4.67   Tiếng Anh:   3.80
+LÊ NGUYỄN THÚY VY,25/05/2002,Toán:   8.00   Ngữ văn:   7.25   Vật lí:   3.25   Hóa học:   7.00   Sinh học:   4.75   KHTN: 5   Tiếng Anh:   6.40
+LÊ PHƯƠNG VY,08/04/2002,Toán:   9.20   Ngữ văn:   8.25   Vật lí:   8.25   Hóa học:   7.50   Sinh học:   7.75   KHTN: 7.83   Tiếng Anh:   7.40
+LÊ VŨ THANH VY,28/11/2002,Toán:   8.40   Ngữ văn:   5.75   Lịch sử:   4.75   Địa lí:   6.00   GDCD:   7.75   KHXH: 6.17   Tiếng Anh:   4.00
+NGUYỄN HOÀNG THẢO VY,09/09/2002,Toán:   6.60   Ngữ văn:   7.41   Lịch sử:   4.00   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.08   Tiếng Anh:   5.20
+NGUYỄN HỒNG VY,28/02/2002,Toán:   7.80   Ngữ văn:   8.00   Lịch sử:   6.75   Địa lí:   8.00   GDCD:   8.25   KHXH: 7.67   Tiếng Anh:   5.20
+NGUYỄN KHÁNH VY,26/05/2002,Toán:   7.80   Ngữ văn:   6.75   Lịch sử:   5.00   Địa lí:   7.00   GDCD:   9.25   KHXH: 7.08   Tiếng Anh:   4.80
+NGUYỄN LAN VY,15/10/2002,Toán:   7.20   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   6.25   GDCD:   7.75   KHXH: 6.33   Tiếng Anh:   4.00
+NGUYỄN NGỌC TƯỜNG VY,20/03/2001,Toán:   7.20   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   7.25   GDCD:   9.00   KHXH: 7   Tiếng Anh:   6.60
+NGUYỄN THANH VY,19/02/2002,Toán:   6.00   Ngữ văn:   7.00   Vật lí:   4.75   Hóa học:   5.50   Sinh học:   5.25   KHTN: 5.17   Tiếng Anh:   4.80
+NGUYỄN THỊ THANH VY,14/12/2002,Toán:   7.00   Ngữ văn:   6.00   Vật lí:   6.75   Hóa học:   7.50   Sinh học:   6.00   KHTN: 6.75   Tiếng Anh:   6.20
+NGUYỄN TRÚC VY,01/10/2002,Toán:   8.40   Ngữ văn:   7.75   Vật lí:   4.75   Hóa học:   7.50   Sinh học:   6.25   KHTN: 6.17   Tiếng Anh:   6.20
+PHẠM ĐOÀN TƯỜNG VY,22/02/2001,Toán:   7.60   Ngữ văn:   7.75   Lịch sử:   5.75   Địa lí:   8.00   GDCD:   9.25   KHXH: 7.67   Tiếng Anh:   7.40
+PHẠM LÊ NHẬT VY,13/08/2002,Toán:   5.80   Ngữ văn:   8.25   Lịch sử:   4.50   Địa lí:   7.00   GDCD:   9.25   KHXH: 6.92   Tiếng Anh:   8.20
+TÔ THÚY VY,27/05/2002,Toán:   8.40   Ngữ văn:   7.50   Vật lí:   4.75   Hóa học:   8.50   Sinh học:   7.25   KHTN: 6.83   Tiếng Anh:   6.20
+TÔ TUYẾT VY,11/06/2002,Toán:   6.80   Ngữ văn:   7.75   Vật lí:   6.75   Hóa học:   8.00   Sinh học:   5.25   KHTN: 6.67   Tiếng Anh:   3.40
+VÕ LÊ THẢO VY,21/03/2002,Toán:   7.40   Ngữ văn:   7.50   Lịch sử:   2.75   Địa lí:   6.25   GDCD:   8.00   KHXH: 5.67   Tiếng Anh:   6.20
+NGUYỄN ĐOÀN LONG VỸ,01/09/2002,Toán:   6.40   Ngữ văn:   7.25   Lịch sử:   4.75   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.25   Tiếng Anh:   4.80
+NGÔ HOÀNG KHÁNH XUÂN,19/07/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   3.50   Hóa học:   8.00   Sinh học:   5.50   KHTN: 5.67   Tiếng Anh:   6.80
+ĐẶNG VÕ NGỌC CẨM XUYẾN,27/11/2002,Toán:   8.40   Ngữ văn:   8.00   Lịch sử:   5.25   Địa lí:   7.25   GDCD:   9.25   KHXH: 7.25   Tiếng Anh:   8.40
+LÊ HỒNG NGỌC XUYẾN,23/12/2002,Toán:   7.60   Ngữ văn:   7.75   Lịch sử:   5.50   Địa lí:   8.75   GDCD:   9.50   KHXH: 7.92   Tiếng Anh:   6.60
+TRƯƠNG THANH XƯƠNG,28/06/2002,Toán:   4.60   Ngữ văn:   6.00   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   6.75   KHXH: 6.08   Tiếng Anh:   4.60
+NGUYỄN THỊ HỒNG YẾN,24/05/2002,Toán:   7.00   Ngữ văn:   7.00   Lịch sử:   2.50   Địa lí:   6.25   GDCD:   6.75   KHXH: 5.17   Tiếng Anh:   4.60
+TRẦN HOÀNG YẾN,16/09/2002,Toán:   7.00   Ngữ văn:   5.50   Lịch sử:   5.00   Địa lí:   6.00   GDCD:   8.50   KHXH: 6.5   Tiếng Anh:   6.00
+HỒNG NGÔ NGỌC KHANG,04/01/2002,Toán:   7.20   Ngữ văn:   7.50   Lịch sử:   3.75   Địa lí:   6.00   GDCD:   7.50   KHXH: 5.75   Tiếng Anh:   2.40
+HUỲNH LÊ KHANG,13/09/2001,Toán:   4.40   Ngữ văn:   4.50   Lịch sử:   5.50   Địa lí:   5.00   GDCD:   6.75   KHXH: 5.75   Tiếng Anh:   6.20
+LÊ VĂN KHANG,29/12/2002,Toán:   8.40   Ngữ văn:   6.25   Lịch sử:   8.25   Địa lí:   7.75   GDCD:   8.00   KHXH: 8   Tiếng Anh:   5.80
+NGUYỄN HOÀNG KHANG,08/05/2002,Toán:   6.00   Ngữ văn:   6.00   Lịch sử:   5.00   Địa lí:   4.75   GDCD:   7.25   KHXH: 5.67   Tiếng Anh:   3.40
+NGUYỄN HOÀNG PHÚC KHANG,01/09/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   7.50   Hóa học:   5.50   Sinh học:   5.50   KHTN: 6.17   Tiếng Anh:   6.40
+TRẦN PHƯỚC KHANG,05/03/2002,Toán:   7.60   Ngữ văn:   7.00   Vật lí:   6.25   Hóa học:   2.75   Sinh học:   4.00   KHTN: 4.33   Tiếng Anh:   5.60
+VŨ TRƯỜNG KHANG,16/10/2002,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   8.75   Hóa học:   5.50   Sinh học:   5.00   KHTN: 6.42   Tiếng Anh:   5.80
+KHUẤT MINH KHANH,05/08/2002,Toán:   6.40   Ngữ văn:   6.25   Lịch sử:   3.50   Địa lí:   5.50   GDCD:   6.75   KHXH: 5.25   Tiếng Anh:   4.40
+TRẦN PHI KHANH,20/02/2002,Toán:   7.60   Ngữ văn:   7.00   Vật lí:   7.75   Hóa học:   5.75   Sinh học:   6.25   KHTN: 6.58   Tiếng Anh:   8.40
+DƯƠNG DUY KHÁNH,15/09/2002,Toán:   6.40   Ngữ văn:   6.25   Vật lí:   4.00   Hóa học:   6.25   Sinh học:   5.50   KHTN: 5.25   Tiếng Anh:   4.80
+HOÀNG MINH KHÁNH,13/08/2002,Toán:   5.80   Ngữ văn:   6.75   Lịch sử:   5.75   Địa lí:   6.75   GDCD:   9.00   KHXH: 7.17   Tiếng Anh:   6.40
+NGUYỄN NHẬT KHÁNH,18/04/2002,Toán:   4.80   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   7.75   GDCD:   8.00   KHXH: 6.83   Tiếng Anh:   5.20
+NGUYỄN QUỐC KHÁNH,29/03/2002,Toán:   8.00   Ngữ văn:   7.50   Vật lí:   6.75   Hóa học:   8.00   Sinh học:   4.00   KHTN: 6.25   Tiếng Anh:   6.20
+PHẠM LÊ KIM KHÁNH,24/09/2001,Toán:   7.00   Ngữ văn:   8.50   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   9.25   KHXH: 7.17   Tiếng Anh:   5.00
+PHẠM NGỌC KHÁNH,03/03/2002,Toán:   5.60   Ngữ văn:   7.75   Lịch sử:   7.75   Địa lí:   8.75   GDCD:   8.75   KHXH: 8.42   Tiếng Anh:   7.00
+VÕ NGỌC XUÂN KHÁNH,18/02/2002,Toán:   7.00   Ngữ văn:   7.00   Vật lí:   5.50   Hóa học:   7.25   Sinh học:   5.75   KHTN: 6.17   Tiếng Anh:   5.60
+VŨ NGUYỄN NĂNG KHÁNH,12/09/2002,Toán:   9.20   Ngữ văn:   7.00   Vật lí:   7.50   Hóa học:   6.50   Sinh học:   4.00   KHTN: 6   Tiếng Anh:   7.60
+NGUYỄN THANH KHÂM,29/05/2002,Toán:   6.80   Ngữ văn:   6.00   Vật lí:   2.75   Hóa học:   7.50   Sinh học:   5.00   KHTN: 5.08   Tiếng Anh:   5.00
+NGUYỄN ĐÌNH KHIÊM,29/04/2002,Toán:   7.40   Ngữ văn:   6.25   Vật lí:   5.50   Hóa học:   4.00   Sinh học:   5.00   KHTN: 4.83   Tiếng Anh:   5.40
+NGÔ ĐĂNG KHOA,09/10/2002,Toán:   5.20   Ngữ văn:   6.50   Vật lí:   4.75   Hóa học:   3.25   Sinh học:   4.50   KHTN: 4.17   Tiếng Anh:   8.20
+NGUYỄN ĐÌNH KHOA,12/09/2002,Toán:   7.80   Ngữ văn:   6.75   Vật lí:   7.00   Hóa học:   7.75   Sinh học:   4.50   KHTN: 6.42   Tiếng Anh:   4.60
+NGUYỄN HUỲNH ĐĂNG KHOA,26/01/2002,Toán:   7.60   Ngữ văn:   6.00   Vật lí:   8.00   Hóa học:   4.00   Sinh học:   4.50   KHTN: 5.5   Tiếng Anh:   6.80
+NGUYỄN PHẠM MINH KHOA,22/09/2002,Toán:   7.80   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   6.25   Sinh học:   4.75   KHTN: 5.5   Tiếng Anh:   5.60
+THIỀU ĐĂNG KHOA,27/10/2002,Toán:   8.00   Ngữ văn:   7.50   Vật lí:   6.50   Hóa học:   7.50   Sinh học:   6.50   KHTN: 6.83   Tiếng Anh:   7.40
+TRẦN ANH KHOA,11/09/2002,Toán:   8.40   Ngữ văn:   6.00   Vật lí:   7.25   Hóa học:   4.75   Sinh học:   4.75   KHTN: 5.58   Tiếng Anh:   7.60
+TRẦN NGUYỄN ĐĂNG KHOA,12/08/2002,Toán:   7.00   Ngữ văn:   6.00   Vật lí:   5.25   Hóa học:   5.75   Sinh học:   6.00   KHTN: 5.67   Tiếng Anh:   7.00
+VÕ QUANG ĐĂNG KHOA,21/03/2002,Toán:   8.80   Ngữ văn:   5.50   Vật lí:   7.75   Hóa học:   6.50   Sinh học:   5.25   KHTN: 6.5   Tiếng Anh:   7.60
+VƯƠNG KHÁNH ĐĂNG KHOA,23/08/2002,Toán:   8.80   Ngữ văn:   6.75   Vật lí:   8.00   Hóa học:   8.50   Sinh học:   6.00   KHTN: 7.5   Tiếng Anh:   7.00
+NGUYỄN MINH KHÔI,22/08/2002,Toán:   7.40   Ngữ văn:   6.50   Lịch sử:   4.75   Địa lí:   7.25   GDCD:   8.50   KHXH: 6.83   Tiếng Anh:   3.20
+NGUYỄN NGỌC KHÔI,28/11/2002,Toán:   8.00   Ngữ văn:   7.25   Vật lí:   6.75   Hóa học:   7.75   Sinh học:   4.00   KHTN: 6.17   Tiếng Anh:   5.00
+TRƯƠNG ĐÌNH KHÔI,28/09/2002,Toán:   7.20   Ngữ văn:   6.75   Lịch sử:   5.00   Địa lí:   8.75   GDCD:   9.50   KHXH: 7.75
+BÙI VÕ TRUNG KIÊN,26/09/2002,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   5.50   Hóa học:   6.50   Sinh học:   6.00   KHTN: 6   Tiếng Anh:   4.20
+GIANG THÀNH KIÊN,12/05/2002,Toán:   5.60   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   7.25   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   5.20
+BÙI ĐĂNG TUẤN KIỆT,28/07/2002,Toán:   7.60   Ngữ văn:   6.75   Vật lí:   7.25   Hóa học:   5.00   Sinh học:   4.75   KHTN: 5.67   Tiếng Anh:   8.40
+DƯƠNG LÊ TUẤN KIỆT,29/05/2002,Toán:   6.00   Ngữ văn:   7.50   Lịch sử:   6.00   Địa lí:   7.00   GDCD:   7.25   KHXH: 6.75   Tiếng Anh:   4.20
+HOÀNG TUẤN KIỆT,22/08/2002,Toán:   8.20   Ngữ văn:   7.50   Lịch sử:   6.00   Địa lí:   6.75   GDCD:   8.75   KHXH: 7.17   Tiếng Anh:   5.40
+HỒ TUẤN KIỆT,04/08/2002,Toán:   7.80   Ngữ văn:   6.75   Lịch sử:   3.25   Địa lí:   7.00   GDCD:   7.25   KHXH: 5.83   Tiếng Anh:   3.20
+LƯU HOÀNG TUẤN KIỆT,28/06/2002,Toán:   7.40   Ngữ văn:   6.50   Vật lí:   5.25   Hóa học:   6.00   Sinh học:   7.00   KHTN: 6.08   Tiếng Anh:   6.40
+NGUYỄN MINH KIỆT,24/06/2002,Toán:   7.00   Ngữ văn:   8.00   Vật lí:   5.75   Hóa học:   5.25   Sinh học:   4.50   KHTN: 5.17   Tiếng Anh:   5.20
+NGUYỄN TUẤN KIỆT,27/02/2002,Toán:   7.80   Ngữ văn:   7.50   Lịch sử:   5.75   Địa lí:   8.00   GDCD:   9.50   KHXH: 7.75   Tiếng Anh:   6.20
+PHAN VŨ KIỆT,21/08/2002,Toán:   7.40   Ngữ văn:   7.50   Vật lí:   6.25   Hóa học:   6.00   Sinh học:   4.75   KHTN: 5.67   Tiếng Anh:   5.60
+TRẦN QUỐC KIỆT,15/03/2002,Toán:   6.20   Ngữ văn:   7.00   Vật lí:   6.25   Hóa học:   4.00   Sinh học:   3.00   KHTN: 4.42   Tiếng Anh:   2.80
+NGUYỄN THỊ MỘNG KIỀU,17/06/2002,Toán:   7.40   Ngữ văn:   6.00   Vật lí:   4.50   Hóa học:   7.25   Sinh học:   5.25   KHTN: 5.67   Tiếng Anh:   5.00
+VĂN THỊ THU KIỀU,17/11/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   4.50   Hóa học:   6.50   Sinh học:   5.75   KHTN: 5.58   Tiếng Anh:   5.60
+CHU HOÀNG KIM,22/03/2002,Toán:   6.80   Ngữ văn:   5.25   Vật lí:   5.25   Hóa học:   5.75   Sinh học:   4.50   KHTN: 5.17   Tiếng Anh:   6.20
+HỒ THỤY BẠCH KIM,22/12/2002,Toán:   7.80   Ngữ văn:   6.50   Lịch sử:   4.25   Địa lí:   5.25   GDCD:   8.25   KHXH: 5.92   Tiếng Anh:   6.80
+NGUYỄN LÂM NHẬT KỲ,24/11/2002,Toán:   6.80   Ngữ văn:   7.25   Lịch sử:   3.50   Địa lí:   7.25   GDCD:   7.50   KHXH: 6.08   Tiếng Anh:   3.80
+NGUYỄN THƯ KỲ,19/03/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   4.25   Hóa học:   4.50   Sinh học:   5.50   KHTN: 4.75   Tiếng Anh:   6.40
+TRẦN BÍCH KỲ,25/10/2002,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   6.75   Hóa học:   6.75   Sinh học:   6.00   KHTN: 6.5   Tiếng Anh:   6.40
+NGUYỄN PHƯƠNG LAM,25/05/2002,Toán:   7.60   Ngữ văn:   7.25   Vật lí:   5.00   Hóa học:   6.25   Sinh học:   4.75   KHTN: 5.33   Tiếng Anh:   4.60
+ĐÀO THỊ HƯƠNG LAN,29/11/2002,Toán:   6.20   Ngữ văn:   8.00   Vật lí:   5.50   Hóa học:   5.25   Sinh học:   5.00   KHTN: 5.25   Tiếng Anh:   5.00
+NGUYỄN MAI NGỌC LAN,19/12/2002,Toán:   5.60   Ngữ văn:   6.75   Lịch sử:   4.00   Địa lí:   6.00   GDCD:   5.25   KHXH: 5.08   Tiếng Anh:   4.60
+LÊ TRẦN HƯƠNG LÂM,27/10/2002,Toán:   7.80   Ngữ văn:   7.00   Vật lí:   5.50   Hóa học:   5.50   Sinh học:   4.00   KHTN: 5   Tiếng Anh:   5.60
+NGUYỄN CAO LÂM,27/11/2002,Toán:   9.40   Ngữ văn:   4.25   Vật lí:   7.75   Hóa học:   3.75   Sinh học:   5.50   KHTN: 5.67   Tiếng Anh:   7.00
+TRẦN TIẾN PHI LÂM,23/08/2002,Toán:   6.60   Ngữ văn:   6.25   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.42   Tiếng Anh:   5.80
+VÕ HOÀNG LÂM,12/08/2002,Toán:   7.00   Ngữ văn:   7.50   Vật lí:   5.25   Hóa học:   7.25   Sinh học:   4.50   KHTN: 5.67   Tiếng Anh:   5.60
+NGUYỄN HỮU LỄ,23/08/2002,Toán:   7.80   Ngữ văn:   5.25   Lịch sử:   4.00   Địa lí:   5.50   GDCD:   7.75   KHXH: 5.75   Tiếng Anh:   5.20
+LƯU THỊ THU LIỄU,30/10/2002,Toán:   7.40   Ngữ văn:   7.75   Lịch sử:   7.50   Địa lí:   7.50   GDCD:   9.50   KHXH: 8.17   Tiếng Anh:   6.20
+ĐINH TUYẾT LINH,25/11/2002,Toán:   9.20   Ngữ văn:   7.25   Vật lí:   7.50   Hóa học:   7.75   Sinh học:   6.75   KHTN: 7.33   Tiếng Anh:   8.20
+HOÀNG KHÁNH LINH,18/12/2002,Toán:   6.60   Ngữ văn:   6.75   Lịch sử:   3.75   Địa lí:   7.00   GDCD:   7.50   KHXH: 6.08   Tiếng Anh:   5.60
+HUỲNH PHƯƠNG LINH,16/01/2002,Toán:   8.40   Ngữ văn:   7.50   Lịch sử:   4.00   Địa lí:   7.75   GDCD:   9.25   KHXH: 7   Tiếng Anh:   7.40
+NGUYỄN HỮU THỊ LINH,04/05/2002,Toán:   8.80   Ngữ văn:   6.75   Lịch sử:   4.50   Địa lí:   7.00   GDCD:   7.75   KHXH: 6.42   Tiếng Anh:   4.40
+NGUYỄN MỸ LINH,03/01/2002,Toán:   7.60   Ngữ văn:   7.75   Lịch sử:   4.25   Địa lí:   6.25   GDCD:   9.00   KHXH: 6.5   Tiếng Anh:   6.80
+NGUYỄN NGỌC KHÁNH LINH,18/10/2001,Toán:   6.60   Ngữ văn:   6.75   Lịch sử:   3.75   Địa lí:   6.00   GDCD:   7.50   KHXH: 5.75   Tiếng Anh:   3.40
+NGUYỄN THỊ KIỀU LINH,18/07/2002,Toán:   8.40   Ngữ văn:   7.25   Vật lí:   3.75   Hóa học:   7.50   Sinh học:   6.25   KHTN: 5.83   Tiếng Anh:   5.40
+NGUYỄN THÙY LINH,24/01/2002,Toán:   6.40   Ngữ văn:   6.25   Lịch sử:   4.50   Địa lí:   6.75   GDCD:   7.25   KHXH: 6.17   Tiếng Anh:   3.80
+PHAN THỊ TRÚC LINH,27/06/2002,Toán:   6.20   Ngữ văn:   7.25   Vật lí:   4.25   Hóa học:   4.50   Sinh học:   4.00   KHTN: 4.25   Tiếng Anh:   4.20
+TRẦN THỊ YẾN LINH,11/04/2002,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   7.25   Hóa học:   6.75   Sinh học:   6.75   KHTN: 6.92   Tiếng Anh:   5.40
+TRẦN TỐNG KHÁNH LINH,28/10/2002,Toán:   7.60   Ngữ văn:   6.50   Vật lí:   5.75   Hóa học:   3.50   Sinh học:   5.00   KHTN: 4.75   Tiếng Anh:   5.80
+TRƯƠNG HẢI LINH,20/04/2002,Toán:   7.60   Ngữ văn:   7.75   Lịch sử:   7.75   Địa lí:   7.50   GDCD:   9.25   KHXH: 8.17   Tiếng Anh:   7.00
+TRƯƠNG NGUYỄN PHƯƠNG LINH,15/11/2002,Toán:   7.00   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   9.50   KHXH: 7.25   Tiếng Anh:   4.20
+NGUYỄN NGỌC LOAN,02/07/2001,Toán:   7.20   Ngữ văn:   8.25   Lịch sử:   5.25   Địa lí:   5.25   GDCD:   6.75   KHXH: 5.75   Tiếng Anh:   4.80
+NGUYỄN THỊ YẾN LOAN,03/12/2002,Toán:   6.00   Ngữ văn:   7.50   Lịch sử:   5.25   Địa lí:   7.75   GDCD:   8.75   KHXH: 7.25   Tiếng Anh:   5.40
+ĐINH TRƯƠNG PHƯƠNG LONG,04/12/2002,Toán:   6.60   Ngữ văn:   6.50   Vật lí:   5.75   Hóa học:   5.00   Sinh học:   3.50   KHTN: 4.75   Tiếng Anh:   4.80
+LƯƠNG NGỌC LONG,07/02/2002,Toán:   7.80   Ngữ văn:   5.75   Lịch sử:   4.50   Địa lí:   6.25   GDCD:   7.75   KHXH: 6.17   Tiếng Anh:   3.40
+NGÔ TUYẾT MINH LONG,06/10/2002,Toán:   8.20   Ngữ văn:   5.91   Vật lí:   6.50   Hóa học:   4.50   Sinh học:   5.00   KHTN: 5.33   Tiếng Anh:   4.20
+NGUYỄN VĂN LONG,15/04/2002,Toán:   7.40   Ngữ văn:   7.50   Lịch sử:   5.50   Địa lí:   7.25   GDCD:   9.00   KHXH: 7.25   Tiếng Anh:   7.20
+NGUYỄN VÕ HOÀNG LONG,10/09/2002,Toán:   6.60   Ngữ văn:   7.00   Vật lí:   6.25   Hóa học:   7.25   Sinh học:   5.50   KHTN: 6.33   Tiếng Anh:   6.00
+PHẠM TRỊNH HOÀNG LONG,06/06/2002,Toán:   8.00   Ngữ văn:   5.25   Vật lí:   6.25   Hóa học:   5.75   Sinh học:   5.50   KHTN: 5.83   Tiếng Anh:   7.00
+PHAN TRỊNH NGỌC LONG,13/12/2002,Toán:   8.00   Ngữ văn:   5.50   Vật lí:   7.25   Hóa học:   8.25   Sinh học:   5.25   KHTN: 6.92   Tiếng Anh:   6.80
+ĐỖ NGUYÊN LỘC,17/05/2002,Toán:   6.00   Ngữ văn:   6.75   Lịch sử:   5.75   Địa lí:   7.00   GDCD:   8.25   KHXH: 7   Tiếng Anh:   6.60
+ĐỖ THÀNH LỘC,29/11/2002,Toán:   5.60   Ngữ văn:   6.50   Lịch sử:   4.00   Địa lí:   6.00   GDCD:   9.00   KHXH: 6.33   Tiếng Anh:   4.80
+HỒNG TẤN LỘC,18/07/2002,Toán:   7.40   Ngữ văn:   6.50   Vật lí:   5.75   Hóa học:   3.50   Sinh học:   2.50   KHTN: 3.92   Tiếng Anh:   4.60
+HUỲNH VĨNH LỘC,10/10/2002,Toán:   5.00   Ngữ văn:   6.50   Lịch sử:   4.25   Địa lí:   7.00   GDCD:   7.50   KHXH: 6.25   Tiếng Anh:   2.60
+NGUYỄN MINH LỘC,01/12/2002,Toán:   7.60   Ngữ văn:   5.75   Vật lí:   6.75   Hóa học:   6.00   Sinh học:   7.75   KHTN: 6.83   Tiếng Anh:   7.00
+VÕ THÀNH LỘC,16/01/2002,Toán:   6.20   Ngữ văn:   6.25   Lịch sử:   4.00   Địa lí:   7.25   GDCD:   7.75   KHXH: 6.33   Tiếng Anh:   4.40
+MÃ HỮU LỢI,23/10/2002,Toán:   6.40   Ngữ văn:   6.25   Vật lí:   3.50   Hóa học:   5.50   Sinh học:   4.50   KHTN: 4.5   Tiếng Anh:   6.80
+NGÔ THỊ THẮNG LỢI,15/03/2002,Toán:   8.00   Ngữ văn:   6.00   Vật lí:   8.25   Hóa học:   6.50   Sinh học:   6.00   KHTN: 6.92   Tiếng Anh:   6.60
+NGUYỄN THỊ LỤA,20/01/2002,Toán:   4.80   Ngữ văn:   6.25   Lịch sử:   4.25   Địa lí:   7.50   GDCD:   8.25   KHXH: 6.67   Tiếng Anh:   6.20
+PHAN NGỌC LỤA,17/10/2002,Toán:   5.40   Ngữ văn:   6.50   Vật lí:   5.25   Hóa học:   6.25   Sinh học:   5.00   KHTN: 5.5   Tiếng Anh:   3.20
+LÊ VĂN LUÂN,03/10/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   7.25   Hóa học:   7.25   Sinh học:   6.50   KHTN: 7   Tiếng Anh:   6.20
+NGUYỄN TÀI LUÂN,12/05/2002,Toán:   5.40   Ngữ văn:   5.00   Lịch sử:   4.00   Địa lí:   5.50   GDCD:   7.50   KHXH: 5.67   Tiếng Anh:   5.80
+VÕ HOÀNG LUÂN,01/07/2002,Toán:   8.60   Ngữ văn:   4.75   Vật lí:   5.50   Hóa học:   7.75   Sinh học:   4.25   KHTN: 5.83   Tiếng Anh:   3.40
+TRẦN THANH LUẬT,06/10/2002,Toán:   7.40   Ngữ văn:   5.75   Vật lí:   7.25   Hóa học:   7.25   Sinh học:   4.00   KHTN: 6.17   Tiếng Anh:   5.20
+KA HOÀNG THẢO LY,16/09/2002,Toán:   7.60   Ngữ văn:   5.50   Lịch sử:   3.25   Địa lí:   6.25   GDCD:   8.00   KHXH: 5.83   Tiếng Anh:   5.80
+NGUYỄN TRẦN TUYẾT LY,25/05/2002,Toán:   7.80   Ngữ văn:   7.00   Vật lí:   3.75   Hóa học:   5.25   Sinh học:   6.00   KHTN: 5   Tiếng Anh:   4.40
+TRẦN CAM LY,04/11/2002,Toán:   6.00   Ngữ văn:   8.25   Lịch sử:   4.00   Địa lí:   6.50   GDCD:   6.25   KHXH: 5.58   Tiếng Anh:   3.60
+BÙI XUÂN MAI,29/05/2002,Toán:   8.80   Ngữ văn:   8.00   Vật lí:   6.25   Hóa học:   7.50   Sinh học:   5.50   KHTN: 6.42   Tiếng Anh:   4.80
+NGUYỄN ÁNH MAI,17/10/2002,Toán:   7.40   Ngữ văn:   8.50   Vật lí:   6.25   Hóa học:   5.75   Sinh học:   4.50   KHTN: 5.5   Tiếng Anh:   6.80
+TRẦN QUỲNH MAI,17/11/2002,Toán:   8.20   Ngữ văn:   7.75   Vật lí:   7.50   Hóa học:   6.25   Sinh học:   6.75   KHTN: 6.83   Tiếng Anh:   6.20
+PHẠM LÊ MINH MẪN,02/01/2001,Toán:   6.00   Ngữ văn:   7.25   Lịch sử:   4.50   Địa lí:   6.00   GDCD:   7.75   KHXH: 6.08   Tiếng Anh:   6.00
+BẠCH QUANG MINH,22/10/2002,Toán:   7.60   Ngữ văn:   7.25   Vật lí:   6.75   Hóa học:   6.00   Sinh học:   6.25   KHTN: 6.33   Tiếng Anh:   7.20
+BÙI QUỐC MINH,29/11/2002,Toán:   5.20   Ngữ văn:   6.75   Lịch sử:   5.50   Địa lí:   6.25   GDCD:   6.25   KHXH: 6   Tiếng Anh:   5.00
+HUỲNH CÔNG MINH,05/11/2002,Toán:   6.80   Ngữ văn:   7.25   Vật lí:   5.50   Hóa học:   4.75   Sinh học:   4.75   KHTN: 5   Tiếng Anh:   4.00
+LƯU TRƯƠNG VỸ HOÀI MINH,30/09/2002,Toán:   5.40   Ngữ văn:   5.25   Lịch sử:   4.00   Địa lí:   6.50   GDCD:   7.00   KHXH: 5.83   Tiếng Anh:   4.20
+LÝ NHẬT MINH,20/09/2002,Toán:   7.00   Ngữ văn:   6.50   Vật lí:   6.00   Hóa học:   5.50   Sinh học:   4.50   KHTN: 5.33   Tiếng Anh:   6.40
+NGÔ THÁI MINH,19/03/2002,Toán:   5.80   Ngữ văn:   6.00   Vật lí:   4.50   Hóa học:   4.75   Sinh học:   4.00   KHTN: 4.42   Tiếng Anh:   5.60
+NGUYỄN ÁNH MINH,31/01/2001,Toán:   8.40   Ngữ văn:   7.00   Vật lí:   6.50   Hóa học:   5.75   Sinh học:   6.25   KHTN: 6.17   Tiếng Anh:   4.60
+NGUYỄN HÀ KHÁNH MINH,10/06/2002,Toán:   6.40   Ngữ văn:   7.00   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   8.75   KHXH: 6.75   Tiếng Anh:   5.00
+NGUYỄN NGỌC MINH,24/12/2002,Toán:   7.00   Ngữ văn:   7.00   Vật lí:   7.00   Hóa học:   4.75   Sinh học:   5.25   KHTN: 5.67   Tiếng Anh:   5.00
+PHẠM HOÀI MINH,24/12/2002,Toán:   5.80   Ngữ văn:   6.25   Lịch sử:   5.50   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   3.80
+TRẦN CÔNG HOÀNG MINH,22/05/2002,Toán:   9.20   Ngữ văn:   6.50   Vật lí:   8.50   Hóa học:   8.25   Sinh học:   5.75   KHTN: 7.5   Tiếng Anh:   9.20
+TRẦN LÊ NHẬT MINH,22/01/2002,Toán:   7.60   Ngữ văn:   7.25   Vật lí:   7.00   Hóa học:   7.50   Sinh học:   5.25   KHTN: 6.58   Tiếng Anh:   9.40
+TRẦN QUAN MINH,07/01/2002,Toán:   6.80   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   5.75   GDCD:   7.75   KHXH: 6.17   Tiếng Anh:   3.60
+TRƯƠNG TÚ MINH,17/07/2001,Toán:   3.40   Ngữ văn:   6.25   Lịch sử:   3.75   Địa lí:   5.75   GDCD:   6.50   KHXH: 5.33   Tiếng Anh:   2.20
+LÊ HOÀNG MY,23/06/2001,Toán:   5.20   Ngữ văn:   5.50   Lịch sử:   2.50   Địa lí:   5.25   GDCD:   6.00   KHXH: 4.58   Tiếng Anh:   2.20
+LÊ HOÀNG THÚY MY,11/11/2002,Toán:   6.40   Ngữ văn:   5.50   Vật lí:   4.25   Hóa học:   3.75   Sinh học:   4.50   KHTN: 4.17   Tiếng Anh:   4.20
+NGUYỄN HUỲNH KIỀU MY,26/04/2002,Toán:   8.00   Ngữ văn:   7.50   Vật lí:   6.50   Hóa học:   4.50   Sinh học:   5.50   KHTN: 5.5   Tiếng Anh:   4.40
+NGUYỄN THỊ KIỀU MY,29/03/2002,Toán:   7.60   Ngữ văn:   7.75   Vật lí:   5.25   Hóa học:   6.75   Sinh học:   6.25   KHTN: 6.08   Tiếng Anh:   5.40
+NGUYỄN THỤY THẢO MY,07/02/2001,Toán:   7.00   Ngữ văn:   4.25   Lịch sử:   4.00   Địa lí:   6.00   GDCD:   6.25   KHXH: 5.42   Tiếng Anh:   4.60
+PHẠM HOÀNG CẨM MY,13/05/2002,Toán:   5.40   Ngữ văn:   6.50   Vật lí:   5.25   Hóa học:   4.25   Sinh học:   4.25   KHTN: 4.58   Tiếng Anh:   5.40
+TRẦN NGỌC MY,31/12/2002,Toán:   7.80   Ngữ văn:   7.75   Vật lí:   5.00   Hóa học:   7.50   Sinh học:   6.50   KHTN: 6.33   Tiếng Anh:   7.20
+TRẦN THẢO MY,23/05/2002,Toán:   6.20   Ngữ văn:   8.00   Vật lí:   2.00   Hóa học:   6.00   Sinh học:   5.00   KHTN: 4.33   Tiếng Anh:   4.40
+LÊ HOÀNG MỸ,26/11/2001,Toán:   6.60   Ngữ văn:   6.00   Lịch sử:   3.50   Địa lí:   6.75   GDCD:   7.75   KHXH: 6   Tiếng Anh:   3.00
+NGUYỄN THỊ HOÀN MỸ,02/12/2002,Toán:   7.40   Ngữ văn:   6.50   Vật lí:   6.75   Hóa học:   7.00   Sinh học:   6.00   KHTN: 6.58   Tiếng Anh:   9.40
+PHẠM THỊ ANH MỸ,07/10/2002,Toán:   7.60   Ngữ văn:   6.50   Vật lí:   6.25   Hóa học:   6.50   Sinh học:   4.50   KHTN: 5.75   Tiếng Anh:   5.20
+ĐẶNG NGUYỄN NHỰT NAM,24/03/2002,Toán:   8.40   Ngữ văn:   6.75   Lịch sử:   6.50   Địa lí:   7.00   GDCD:   7.50   KHXH: 7   Tiếng Anh:   6.20
+NGUYỄN HOÀNG NAM,29/07/2001,Toán:   6.00   Ngữ văn:   6.00   Lịch sử:   3.00   Địa lí:   3.50   GDCD:   6.25   KHXH: 4.25   Tiếng Anh:   2.20
+NGUYỄN HUỲNH PHƯƠNG NAM,07/08/2002,Toán:   4.80   Ngữ văn:   4.50   Vật lí:   5.25   Hóa học:   4.75   Sinh học:   6.75   KHTN: 5.58   Tiếng Anh:   5.00
+NGUYỄN NHẬT TÀI NAM,24/12/2002,Toán:   7.60   Ngữ văn:   6.00   Vật lí:   6.25   Hóa học:   5.50   Sinh học:   5.50   KHTN: 5.75   Tiếng Anh:   4.40
+NGUYỄN NHỰT NAM,07/10/2002,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   5.75   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   5.80
+NGUYỄN THỊ HOÀI NAM,16/10/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   7.00   Hóa học:   7.75   Sinh học:   5.75   KHTN: 6.83   Tiếng Anh:   4.20
+NGUYỄN TRẦN NAM,12/12/2002,Toán:   7.20   Ngữ văn:   6.50   Lịch sử:   6.25   Địa lí:   7.00   GDCD:   7.25   KHXH: 6.83   Tiếng Anh:   4.20
+QUÁCH HOÀNG NAM,23/11/2001,Toán:   7.40   Ngữ văn:   5.50   Vật lí:   7.25   Hóa học:   5.50   Sinh học:   2.50   KHTN: 5.08   Tiếng Anh:   5.60
+TRẦN PHƯƠNG NAM,24/11/2002,Toán:   5.80   Ngữ văn:   5.75   Lịch sử:   5.75   Địa lí:   7.25   GDCD:   7.75   KHXH: 6.92   Tiếng Anh:   5.20
+TRƯƠNG HOÀI NAM,22/04/2002,Toán:   8.00   Ngữ văn:   8.00   Lịch sử:   4.50   Địa lí:   8.50   GDCD:   9.75   KHXH: 7.58   Tiếng Anh:   6.20
+VÕ THÀNH NAM,03/10/2002,Toán:   7.80   Ngữ văn:   5.25   Vật lí:   7.25   Hóa học:   6.50   Sinh học:   7.25   KHTN: 7   Tiếng Anh:   7.00
+NGUYỄN AN NE,23/07/2002,Toán:   6.60   Ngữ văn:   7.25   Lịch sử:   6.00   Địa lí:   7.00   GDCD:   8.50   KHXH: 7.17   Tiếng Anh:   5.60
+NGUYỄN THỊ PHƯƠNG NGA,10/08/2002,Toán:   8.20   Ngữ văn:   7.75   Vật lí:   6.25   Hóa học:   8.00   Sinh học:   6.75   KHTN: 7   Tiếng Anh:   3.80
+NGUYỄN THỊ QUỲNH NGA,28/12/2002,Toán:   8.20   Ngữ văn:   7.50   Lịch sử:   8.00   Địa lí:   8.50   GDCD:  10.00   KHXH: 8.83   Tiếng Anh:   8.40
+TRẦN HUỲNH NGA,09/11/2002,Toán:   6.80   Ngữ văn:   6.50   Vật lí:   5.50   Hóa học:   7.50   Sinh học:   5.00   KHTN: 6   Tiếng Anh:   5.60
+VÕ PHI NGA,15/12/2001,Toán:   5.40   Ngữ văn:   7.50   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.25   Tiếng Anh:   2.80
+HUỲNH NGỌC TÙNG NGÂN,24/07/2002,Toán:   6.60   Ngữ văn:   7.50   Lịch sử:   3.75   Địa lí:   6.50   GDCD:   8.00   KHXH: 6.08   Tiếng Anh:   4.80
+LÊ HOÀNG KHÁNH NGÂN,14/05/2002,Toán:   7.60   Ngữ văn:   8.25   Lịch sử:   5.00   Địa lí:   6.25   GDCD:   8.50   KHXH: 6.58   Tiếng Anh:   5.60
+LÊ THỊ KIM NGÂN,03/05/2002,Toán:   6.40   Ngữ văn:   7.00   Vật lí:   6.50   Hóa học:   5.00   Sinh học:   5.50   KHTN: 5.67   Tiếng Anh:   7.80
+LÊ THỊ KIM NGÂN,15/09/2002,Toán:   7.00   Ngữ văn:   7.00   Vật lí:   5.25   Hóa học:   5.50   Sinh học:   3.75   KHTN: 4.83   Tiếng Anh:   5.40
+NGÔ HOÀNG THU NGÂN,06/07/2002,Toán:   7.60   Ngữ văn:   7.00   Lịch sử:   6.25   Địa lí:   8.75   GDCD:   9.50   KHXH: 8.17   Tiếng Anh:   5.60
+NGUYỄN HUỲNH KIM NGÂN,23/07/2002,Toán:   6.40   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   8.00   GDCD:   7.50   KHXH: 6.83   Tiếng Anh:   4.60
+NGUYỄN KIM NGÂN,16/10/2002,Toán:   8.40   Ngữ văn:   7.00   Vật lí:   5.75   Hóa học:   5.00   Sinh học:   6.25   KHTN: 5.67   Tiếng Anh:   7.40
+NGUYỄN KIM NGÂN,30/07/2002,Toán:   7.00   Ngữ văn:   6.25   Lịch sử:   5.25   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.67   Tiếng Anh:   5.00
+NGUYỄN THIỆN BẢO NGÂN,09/12/2002,Toán:   6.00   Ngữ văn:   6.75   Lịch sử:   4.25   Địa lí:   4.75   GDCD:   7.25   KHXH: 5.42   Tiếng Anh:   4.40
+NGUYỄN THOẠI TRÚC NGÂN,01/03/2002,Toán:   8.40   Ngữ văn:   8.00   Vật lí:   4.75   Hóa học:   7.00   Sinh học:   4.25   KHTN: 5.33   Tiếng Anh:   7.80
+PHẠM THỊ KIM NGÂN,07/06/2002,Toán:   7.40   Ngữ văn:   5.50   Vật lí:   7.50   Hóa học:   7.75   Sinh học:   6.25   KHTN: 7.17   Tiếng Anh:   5.80
+TRẦN THANH NGÂN,11/06/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   6.25   Hóa học:   8.50   Sinh học:   6.75   KHTN: 7.17   Tiếng Anh:   8.40
+TRẦN THỊ KIM NGÂN,24/08/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   6.50   Hóa học:   7.25   Sinh học:   3.75   KHTN: 5.83   Tiếng Anh:   6.40
+VÕ THỊ KIM NGÂN,15/12/2002,Toán:   8.20   Ngữ văn:   7.50   Lịch sử:   5.50   Địa lí:   7.25   GDCD:   9.50   KHXH: 7.42   Tiếng Anh:   6.20
+VÕ THỊ KIM NGÂN,23/11/2002,Toán:   7.20   Ngữ văn:   7.50   Lịch sử:   5.50   Địa lí:   6.75   GDCD:   8.50   KHXH: 6.92   Tiếng Anh:   5.40
+VŨ NGỌC TUYẾT NGÂN,20/02/2002,Toán:   8.20   Ngữ văn:   7.25   Vật lí:   5.50   Hóa học:   7.75   Sinh học:   6.00   KHTN: 6.42   Tiếng Anh:   5.80
+ĐOÀN NGỌC ĐÔNG NGHI,10/01/2001,Toán:   6.20   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   4.75   Sinh học:   3.50   KHTN: 4.58   Tiếng Anh:   5.80
+LÊ HỒNG MỘNG NGHI,26/12/2002,Toán:   7.00   Ngữ văn:   7.75   Lịch sử:   4.25   Địa lí:   8.50   GDCD:   9.00   KHXH: 7.25   Tiếng Anh:   5.00
+LÊ THỊ NGỌC NGHI,23/01/2002,Toán:   6.20   Ngữ văn:   6.00   Vật lí:   3.50   Hóa học:   6.25   Sinh học:   5.25   KHTN: 5   Tiếng Anh:   3.60
+LÊ HỒ QUANG NGHỊ,04/03/2002,Toán:   6.00   Ngữ văn:   7.00   Vật lí:   4.00   Hóa học:   3.00   Sinh học:   5.50   KHTN: 4.17   Tiếng Anh:   2.80
+ĐÀM NGUYỄN TRỌNG NGHĨA,20/04/2002,Toán:   6.60   Ngữ văn:   7.75   Lịch sử:   5.25   Địa lí:   5.50   GDCD:   7.75   KHXH: 6.17   Tiếng Anh:   4.60
+MAI THỊ THU NGHĨA,03/06/2002,Toán:   6.40   Ngữ văn:   7.75   Lịch sử:   5.00   Địa lí:   4.75   GDCD:   7.75   KHXH: 5.83   Tiếng Anh:   4.40
+NGUYỄN TRỌNG NGHĨA,20/03/2002,Toán:   6.40   Ngữ văn:   8.00   Vật lí:   5.50   Hóa học:   5.25   Sinh học:   4.50   KHTN: 5.08   Tiếng Anh:   5.40
+PHẠM DANH NGHĨA,22/11/2002,Toán:   5.20   Ngữ văn:   5.50   Vật lí:   2.50   Hóa học:   7.25   Sinh học:   5.25   KHTN: 5   Tiếng Anh:   3.80
+TRẦN HOÀNG NGHĨA,27/02/2002,Toán:   6.40   Ngữ văn:   6.50   Vật lí:   7.25   Hóa học:   5.50   Sinh học:   4.75   KHTN: 5.83   Tiếng Anh:   5.20
+ĐỖ NGUYỄN NGUYÊN NGỌC,27/03/2002,Toán:   7.40   Ngữ văn:   7.00   Lịch sử:   3.00   Địa lí:   6.75   GDCD:   8.50   KHXH: 6.08   Tiếng Anh:   5.60
+HUỲNH BẢO NGỌC,17/10/2002,Toán:   7.80   Ngữ văn:   8.00   Lịch sử:   4.25   Địa lí:   6.75   GDCD:   6.75   KHXH: 5.92   Tiếng Anh:   4.60
+HUỲNH NHƯ NGỌC,28/10/2002,Toán:   7.60   Ngữ văn:   7.00   Vật lí:   5.75   Hóa học:   4.75   Sinh học:   5.50   KHTN: 5.33   Tiếng Anh:   5.40
+HUỲNH THỊ BỘI NGỌC,21/03/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   6.25   Hóa học:   7.75   Sinh học:   8.00   KHTN: 7.33   Tiếng Anh:   5.80
+LÊ HIẾU NGỌC,30/07/2002,Toán:   7.20   Ngữ văn:   6.75   Lịch sử:   3.00   Địa lí:   5.00   GDCD:   7.50   KHXH: 5.17   Tiếng Anh:   4.60
+LÊ NGUYỄN KHÁNH NGỌC,18/11/2002,Toán:   8.40   Ngữ văn:   6.75   Vật lí:   5.00   Hóa học:   6.75   Sinh học:   5.25   KHTN: 5.67   Tiếng Anh:   6.40
+MAI THỊ TUYẾT NGỌC,12/02/2002,Toán:   3.20   Ngữ văn:   6.25   Lịch sử:   3.25   Địa lí:   4.50   GDCD:   6.25   KHXH: 4.67   Tiếng Anh:   5.00
+NGUYỄN HOÀI NGỌC,03/03/2002,Toán:   5.40   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   5.25   GDCD:   6.50   KHXH: 5.5   Tiếng Anh:   3.80
+NGUYỄN NHƯ NGỌC,31/12/2002,Toán:   8.20   Ngữ văn:   6.00   Lịch sử:   3.50   Địa lí:   5.75   GDCD:   6.25   KHXH: 5.17   Tiếng Anh:   5.60
+NGUYỄN THỊ BÍCH NGỌC,03/07/2002,Toán:   7.80   Ngữ văn:   7.25   Vật lí:   7.75   Hóa học:   7.75   Sinh học:   6.75   KHTN: 7.42   Tiếng Anh:   6.40
+NGUYỄN THỊ NHƯ NGỌC,21/04/2002,Toán:   7.20   Ngữ văn:   6.50   Vật lí:   5.00   Hóa học:   5.75   Sinh học:   4.00   KHTN: 4.92   Tiếng Anh:   4.60
+PHẠM DIỆP KIM NGỌC,10/06/2002,Toán:   6.60   Ngữ văn:   6.25   Lịch sử:   6.75   Địa lí:   6.50   GDCD:   8.25   KHXH: 7.17   Tiếng Anh:   4.80
+TRẦN BẢO KIM NGỌC,22/07/2002,Toán:   6.40   Ngữ văn:   7.25   Lịch sử:   7.00   Địa lí:   7.25   GDCD:   8.50   KHXH: 7.58   Tiếng Anh:   4.20
+TRẦN THÁI NGỌC,24/07/2001,Toán:   6.60   Ngữ văn:   7.50   Lịch sử:   5.25   Địa lí:   6.50   GDCD:   8.00   KHXH: 6.58   Tiếng Anh:   7.00
+VÕ LÊ ÁNH NGỌC,10/09/2002,Toán:   6.40   Ngữ văn:   7.50   Vật lí:   3.75   Hóa học:   5.50   Sinh học:   3.25   KHTN: 4.17   Tiếng Anh:   4.40
+HUỲNH THỊ BÍCH NGUYÊN,18/03/2002,Toán:   6.00   Ngữ văn:   7.50   Vật lí:   5.50   Hóa học:   3.25   Sinh học:   3.75   KHTN: 4.17   Tiếng Anh:   2.60
+MAI QUỐC TRUNG NGUYÊN,27/05/2002,Toán:   7.00   Ngữ văn:   4.75   Lịch sử:   5.00   Địa lí:   6.00   GDCD:   6.25   KHXH: 5.75   Tiếng Anh:   4.20
+NGUYỄN HOÀNG ĐỨC NGUYÊN,08/11/2002,Toán:   4.80   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   5.00   GDCD:   6.00   KHXH: 5.33   Tiếng Anh:   6.20
+NGUYỄN NGỌC THẢO NGUYÊN,30/10/2002,Toán:   9.20   Ngữ văn:   8.00   Vật lí:   6.75   Hóa học:   5.50   Sinh học:   5.75   KHTN: 6   Tiếng Anh:   7.00
+NGUYỄN THỊ THU NGUYÊN,16/07/2000,Toán:   4.60   Ngữ văn:   6.50   Lịch sử:   5.50   Địa lí:   5.25   GDCD:   7.75   KHXH: 6.17   Tiếng Anh:   3.40
+TRẦN NGỌC THÀNH NGUYÊN,30/07/2002,Toán:   5.60   Ngữ văn:   6.00   Lịch sử:   5.75   Địa lí:   6.75   GDCD:   7.50   KHXH: 6.67   Tiếng Anh:   3.00
+TRẦN THẢO NGUYÊN,27/03/2002,Toán:   6.60   Ngữ văn:   6.75   Lịch sử:   7.50   Địa lí:   8.00   GDCD:   8.75   KHXH: 8.08   Tiếng Anh:   8.20
+TRƯƠNG ĐÌNH NGUYÊN,01/05/2002,Toán:   7.00   Ngữ văn:   6.75   Lịch sử:   5.50   Địa lí:   6.75   GDCD:   8.25   KHXH: 6.83   Tiếng Anh:   3.60
+VŨ TRẦN ANH NGUYÊN,27/01/2002,Toán:   6.80   Ngữ văn:   6.75   Vật lí:   5.50   Hóa học:   6.25   Sinh học:   5.75   KHTN: 5.83   Tiếng Anh:   6.80
+LÊ THỊ THU NGUYỆT,29/05/2002,Toán:   7.40   Ngữ văn:   7.25   Lịch sử:   4.00   Địa lí:   5.75   GDCD:   9.00   KHXH: 6.25   Tiếng Anh:   6.20
+NGUYỄN THỊ NGUYỆT,25/08/2002,Toán:   6.20   Ngữ văn:   7.25   Vật lí:   4.00   Hóa học:   6.50   Sinh học:   4.25   KHTN: 4.92   Tiếng Anh:   5.80
+NGUYỄN THỊ HỒNG NHA,28/07/2002,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   5.50   Hóa học:   4.00   Sinh học:   5.25   KHTN: 4.92   Tiếng Anh:   5.00
+MAI THANH NHÃ,04/04/2002,Toán:   6.60   Ngữ văn:   6.75   Vật lí:   5.75   Hóa học:   5.25   Sinh học:   3.75   KHTN: 4.92   Tiếng Anh:   5.40
+ĐẶNG LÊ NGỌC NHÂN,14/04/2002,Toán:   7.60   Ngữ văn:   8.50   Lịch sử:   3.25   Địa lí:   7.25   GDCD:   8.00   KHXH: 6.17   Tiếng Anh:   3.80
+ĐỖ CHÍ NHÂN,06/03/2002,Toán:   6.20   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   7.25   GDCD:   8.25   KHXH: 6.75   Tiếng Anh:   7.40
+LA MINH NHÂN,15/12/2002,Toán:   3.60   Ngữ văn:   4.75   Lịch sử:   3.75   Địa lí:   5.00   GDCD:   7.00   KHXH: 5.25   Tiếng Anh:   2.20
+NGUYỄN LÊ HOÀI NHÂN,03/09/2002,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   6.25   Sinh học:   5.75   KHTN: 6.17   Tiếng Anh:   5.40
+PHẠM ĐÌNH NHÂN,14/01/2002,Toán:   5.20   Ngữ văn:   5.75   Vật lí:   3.25   Hóa học:   3.50   Sinh học:   4.75   KHTN: 3.83   Tiếng Anh:   5.60
+TRẦN LƯU THANH NHÂN,28/07/2002,Toán:   5.20   Ngữ văn:   7.00   Lịch sử:   4.50   Địa lí:   4.75   GDCD:   6.25   KHXH: 5.17   Tiếng Anh:   4.40
+ĐÀO MINH NHẬT,20/04/2002,Toán:   7.20   Ngữ văn:   6.25   Vật lí:   5.00   Hóa học:   4.50   Sinh học:   5.00   KHTN: 4.83   Tiếng Anh:   6.40
+HỒ LÊ MINH NHẬT,08/04/2002,Toán:   7.80   Ngữ văn:   6.00   Vật lí:   6.00   Hóa học:   6.25   Sinh học:   5.50   KHTN: 5.92   Tiếng Anh:   5.60
+LÊ MINH NHẬT,21/09/2002,Toán:   8.20   Ngữ văn:   6.75   Vật lí:   8.25   Hóa học:   6.00   Sinh học:   5.75   KHTN: 6.67   Tiếng Anh:   7.60
+NGUYỄN MINH NHẬT,02/06/2002,Toán:   7.40   Ngữ văn:   7.25   Vật lí:   6.00   Hóa học:   5.75   Sinh học:   5.00   KHTN: 5.58   Tiếng Anh:   4.20
+NGUYỄN MINH NHẬT,08/10/2001,Toán:   4.60   Ngữ văn:   6.00   Lịch sử:   2.50   Địa lí:   5.75   GDCD:   6.50   KHXH: 4.92   Tiếng Anh:   2.80
+NGUYỄN NGỌC MINH NHẬT,01/11/2002,Toán:   7.20   Ngữ văn:   6.25   Lịch sử:   4.00   Địa lí:   7.25   GDCD:   8.00   KHXH: 6.42   Tiếng Anh:   3.60
+PHẠM QUANG NHẬT,01/04/2002,Toán:   6.00   Ngữ văn:   7.00   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   6.40
+DANH THỊ TIỂU NHI,29/09/2002,Toán:   7.20   Ngữ văn:   7.50   Vật lí:   5.25   Hóa học:   7.75   Sinh học:   5.75   KHTN: 6.25   Tiếng Anh:   5.00
+DƯƠNG THỊ HUỲNH NHI,15/09/2002,Toán:   5.20   Ngữ văn:   7.75   Lịch sử:   4.50   Địa lí:   6.75   GDCD:   8.75   KHXH: 6.67   Tiếng Anh:   5.60
+HỒ THỤY PHƯƠNG NHI,11/01/2002,Toán:   6.60   Ngữ văn:   6.25   Lịch sử:   4.50   Địa lí:   6.25   GDCD:   7.00   KHXH: 5.92   Tiếng Anh:   3.20
+NGUYỄN HỒNG NHI,17/01/2002,Toán:   5.80   Ngữ văn:   6.50   Lịch sử:   4.75   Địa lí:   8.25   GDCD:   8.25   KHXH: 7.08   Tiếng Anh:   5.40
+NGUYỄN HUỲNH TUYẾT NHI,09/11/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   6.00   Hóa học:   6.00   Sinh học:   4.00   KHTN: 5.33   Tiếng Anh:   5.80
+NGUYỄN LA UYỂN NHI,01/08/2002,Toán:   7.60   Ngữ văn:   6.50   Lịch sử:   4.50   Địa lí:   6.75   GDCD:   8.00   KHXH: 6.42   Tiếng Anh:   5.40
+NGUYỄN LƯƠNG TUYẾT NHI,16/07/2002,Toán:   6.40   Ngữ văn:   8.00   Lịch sử:   6.00   Địa lí:   7.25   GDCD:   8.25   KHXH: 7.17   Tiếng Anh:   4.40
+NGUYỄN MỸ NHI,29/01/2002,Toán:   6.40   Ngữ văn:   6.00   Vật lí:   5.00   Hóa học:   4.50   Sinh học:   4.75   KHTN: 4.75   Tiếng Anh:   3.40
+NGUYỄN NGỌC HƯƠNG NHI,17/07/2002,Toán:   8.60   Ngữ văn:   8.00   Vật lí:   8.00   Hóa học:   7.75   Sinh học:   4.00   KHTN: 6.58   Tiếng Anh:   5.00
+NGUYỄN NGỌC YẾN NHI,01/03/2002,Toán:   6.80   Ngữ văn:   5.75   Vật lí:   6.25   Hóa học:   7.00   Sinh học:   6.00   KHTN: 6.42   Tiếng Anh:   5.20
+NGUYỄN NGỌC YẾN NHI,01/10/2002,Toán:   8.60   Ngữ văn:   7.75   Vật lí:   6.25   Hóa học:   7.25   Sinh học:   5.25   KHTN: 6.25   Tiếng Anh:   7.20
+NGUYỄN NGỌC YẾN NHI,16/10/2002,Toán:   9.00   Ngữ văn:   7.00   Vật lí:   8.50   Hóa học:   7.50   Sinh học:   7.25   KHTN: 7.75   Tiếng Anh:   9.20
+NGUYỄN NGÔ THỊ TUYẾT NHI,28/07/2002,Toán:   7.40   Ngữ văn:   6.75   Lịch sử:   5.25   Địa lí:   5.50   GDCD:   8.75   KHXH: 6.5   Tiếng Anh:   3.00
+NGUYỄN THANH NHI,05/12/2002,Toán:   8.00   Ngữ văn:   6.50   Vật lí:   3.25   Hóa học:   8.00   Sinh học:   5.50   KHTN: 5.58   Tiếng Anh:   5.40
+NGUYỄN THANH NHI,16/12/2002,Toán:   8.60   Ngữ văn:   7.00   Vật lí:   6.75   Hóa học:   7.50   Sinh học:   6.75   KHTN: 7   Tiếng Anh:   5.00
+NGUYỄN THỊ TRÚC NHI,10/04/2002,Toán:   8.00   Ngữ văn:   8.75   Lịch sử:   4.00   Địa lí:   6.75   GDCD:   9.50   KHXH: 6.75   Tiếng Anh:   7.20
+NGUYỄN THỊ YẾN NHI,22/05/2002,Toán:   3.20   Ngữ văn:   7.25   Lịch sử:   3.25   Địa lí:   6.25   GDCD:   6.25   KHXH: 5.25   Tiếng Anh:   2.80
+NGUYỄN XUÂN UYỂN NHI,22/03/2002,Toán:   5.20   Ngữ văn:   7.25   Lịch sử:   3.75   Địa lí:   7.25   GDCD:   7.50   KHXH: 6.17   Tiếng Anh:   3.40
+PHẠM THỊ TUYẾT NHI,06/05/2002,Toán:   7.00   Ngữ văn:   8.00   Lịch sử:   6.00   Địa lí:   8.50   GDCD:   9.50   KHXH: 8   Tiếng Anh:   4.60
+PHAN THỊ TUYẾT NHI,13/01/2002,Toán:   6.80   Ngữ văn:   7.00   Lịch sử:   3.25   Địa lí:   6.25   GDCD:   6.50   KHXH: 5.33   Tiếng Anh:   4.80
+TRẦN NGỌC NHI,11/12/2002,Toán:   4.20   Ngữ văn:   7.25   Lịch sử:   5.00   Địa lí:   6.25   GDCD:   8.50   KHXH: 6.58   Tiếng Anh:   4.20
+TRẦN TÚ NHI,20/12/2002,Toán:   7.60   Ngữ văn:   6.50   Lịch sử:   2.50   Địa lí:   7.25   GDCD:   8.50   KHXH: 6.08   Tiếng Anh:   6.40
+VÕ THỊ YẾN NHI,30/07/2002,Toán:   7.40   Ngữ văn:   6.25   Lịch sử:   3.25   Địa lí:   7.25   GDCD:   7.75   KHXH: 6.08   Tiếng Anh:   5.00
+TRỊNH PHƯƠNG NHU,12/06/2002,Toán:   6.60   Ngữ văn:   7.00   Vật lí:   4.75   Hóa học:   4.50   Sinh học:   5.00   KHTN: 4.75   Tiếng Anh:   5.80
+CHÂU HỒNG NHUNG,21/04/2002,Toán:   8.00   Ngữ văn:   7.50   Vật lí:   5.75   Hóa học:   6.00   Sinh học:   6.00   KHTN: 5.92   Tiếng Anh:   5.80
+HUỲNH CẨM NHUNG,19/10/2002,Toán:   8.60   Ngữ văn:   7.00   Lịch sử:   6.25   Địa lí:   7.75   GDCD:   8.50   KHXH: 7.5   Tiếng Anh:   6.80
+LÊ PHƯƠNG NHUNG,12/12/2001,Toán:   7.60   Ngữ văn:   8.00   Vật lí:   6.50   Hóa học:   6.50   Sinh học:   6.25   KHTN: 6.42   Tiếng Anh:   4.60
+MAI DƯƠNG PHI NHUNG,10/09/2002,Toán:   7.00   Ngữ văn:   7.50   Vật lí:   5.25   Hóa học:   6.25   Sinh học:   5.75   KHTN: 5.75   Tiếng Anh:   3.60
+NGUYỄN THỊ HỒNG NHUNG,19/03/2002,Toán:   6.80   Ngữ văn:   8.00   Vật lí:   6.00   Hóa học:   6.75   Sinh học:   6.00   KHTN: 6.25   Tiếng Anh:   4.00
+NGUYỄN THỊ NHUNG,22/04/2002,Toán:   6.80   Ngữ văn:   7.25   Lịch sử:   3.75   Địa lí:   6.25   GDCD:   8.00   KHXH: 6   Tiếng Anh:   3.40
+VÕ THỊ TUYẾT NHUNG,06/04/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   5.25   Hóa học:   7.00   Sinh học:   2.75   KHTN: 5   Tiếng Anh:   3.80
+ĐẶNG HOÀI TÂM NHƯ,16/07/2002,Toán:   7.20   Ngữ văn:   6.25   Vật lí:   6.50   Hóa học:   7.25   Sinh học:   5.00   KHTN: 6.25   Tiếng Anh:   4.20
+ĐỖ XUÂN QUỲNH NHƯ,15/12/2002,Toán:   6.60   Ngữ văn:   8.00   Vật lí:   4.50   Hóa học:   5.25   Sinh học:   5.25   KHTN: 5   Tiếng Anh:   4.60
+LÊ NGỌC QUỲNH NHƯ,21/11/2000,Toán:   5.80   Ngữ văn:   7.50   Lịch sử:   3.50   Địa lí:   5.25   GDCD:   7.50   KHXH: 5.42   Tiếng Anh:   4.40
+LÊ NGUYỄN NGỌC NHƯ,13/05/2002,Toán:   9.20   Ngữ văn:   7.50   Vật lí:   7.00   Hóa học:   8.25   Sinh học:   7.50   KHTN: 7.58   Tiếng Anh:   5.00
+NGUYỄN HUỲNH NHƯ,14/03/2002,Toán:   8.00   Ngữ văn:   6.00   Vật lí:   7.00   Hóa học:   7.25   Sinh học:   4.25   KHTN: 6.17   Tiếng Anh:   5.00
+NGUYỄN NGỌC NHƯ,11/01/2002,Toán:   6.60   Ngữ văn:   6.25   Vật lí:   3.50   Hóa học:   6.50   Sinh học:   4.00   KHTN: 4.67   Tiếng Anh:   6.00
+NGUYỄN PHẠM QUỲNH NHƯ,11/10/2002,Toán:   7.80   Ngữ văn:   7.00   Lịch sử:   4.00   Địa lí:   7.25   GDCD:   8.00   KHXH: 6.42   Tiếng Anh:   6.80
+NGUYỄN PHƯƠNG NHƯ,09/09/2002,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   5.25   Hóa học:   7.00   Sinh học:   6.75   KHTN: 6.33   Tiếng Anh:   7.40
+NGUYỄN QUỲNH NHƯ,16/12/2002,Toán:   6.80   Ngữ văn:   7.00   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.25   Tiếng Anh:   3.80
+NGUYỄN QUỲNH NHƯ,30/10/2002,Toán:   5.60   Ngữ văn:   6.75   Lịch sử:   4.50   Địa lí:   5.25   GDCD:   7.25   KHXH: 5.67   Tiếng Anh:   4.00
+PHẠM HUỲNH NHƯ,09/04/2002,Toán:   6.60   Ngữ văn:   7.75   Lịch sử:   3.25   Địa lí:   6.00   GDCD:   7.75   KHXH: 5.67   Tiếng Anh:   3.40
+TRẦN ĐÌNH NHƯ,28/09/2002,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   5.50   Hóa học:   7.25   Sinh học:   6.25   KHTN: 6.33   Tiếng Anh:   5.80
+NGUYỄN HOÀNG MINH NHỰT,13/09/2002,Toán:   5.20   Ngữ văn:   7.50   Vật lí:   3.25   Hóa học:   2.75   Sinh học:   4.50   KHTN: 3.5   Tiếng Anh:   3.80
+TRƯƠNG NGUYỄN MINH NHỰT,14/03/2002,Toán:   5.60   Ngữ văn:   7.25   Vật lí:   5.25   Hóa học:   2.50   Sinh học:   5.00   KHTN: 4.25   Tiếng Anh:   4.80
+NGUYỄN THỊ KIM OANH,27/10/2002,Toán:   7.80   Ngữ văn:   8.00   Lịch sử:   6.50   Địa lí:   8.00   GDCD:   8.25   KHXH: 7.58   Tiếng Anh:   6.60
+TRẦN THỊ PHƯƠNG OANH,18/04/2002,Toán:   6.80   Ngữ văn:   6.25   Lịch sử:   3.75   Địa lí:   7.75   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   3.40
+NGUYỄN HUỲNH PHÁT,11/12/2002,Toán:   9.00   Ngữ văn:   8.00   Vật lí:   6.25   Hóa học:   8.00   Sinh học:   6.25   KHTN: 6.83   Tiếng Anh:   7.00
+NGUYỄN HUỲNH THUẬN PHÁT,15/04/2002,Toán:   7.20   Ngữ văn:   6.00   Vật lí:   6.50   Hóa học:   7.00   Sinh học:   5.75   KHTN: 6.42   Tiếng Anh:   6.60
+NGUYỄN MINH PHÁT,01/01/2002,Toán:   4.80   Ngữ văn:   5.75   Lịch sử:   4.50   Địa lí:   6.75   GDCD:   7.00   KHXH: 6.08   Tiếng Anh:   4.00
+NGUYỄN PHẠM GIA PHÁT,21/06/2002,Toán:   6.60   Ngữ văn:   4.25   Vật lí:   3.50   Hóa học:   5.00   Sinh học:   3.75   KHTN: 4.08   Tiếng Anh:   7.20
+PHẠM HỒNG PHÁT,10/12/2002,Toán:   8.00   Ngữ văn:   8.00   Vật lí:   6.50   Hóa học:   4.25   Sinh học:   5.25   KHTN: 5.33   Tiếng Anh:   4.00
+PHAN THÀNH PHÁT,01/01/2002,Toán:   6.20   Ngữ văn:   7.00   Vật lí:   4.50   Hóa học:   3.25   Sinh học:   3.75   KHTN: 3.83   Tiếng Anh:   4.20
+QUÃNG TRỌNG PHÁT,26/10/2002,Toán:   7.80   Ngữ văn:   7.00   Lịch sử:   3.50   Địa lí:   6.25   GDCD:   7.00   KHXH: 5.58   Tiếng Anh:   3.60
+VÕ THÀNH PHÁT,11/12/2002,Toán:   7.20   Ngữ văn:   7.00   Vật lí:   5.50   Hóa học:   7.25   Sinh học:   5.25   KHTN: 6   Tiếng Anh:   8.20
+VŨ LÊ TẤN PHÁT,23/02/2002,Toán:   7.60   Ngữ văn:   6.25   Vật lí:   5.75   Hóa học:   6.75   Sinh học:   6.75   KHTN: 6.42   Tiếng Anh:   7.40
+NGUYỄN VĂN PHI,05/02/2001,Toán:   6.60   Ngữ văn:   5.50   Vật lí:   4.00   Hóa học:   6.75   Sinh học:   5.25   KHTN: 5.33   Tiếng Anh:   4.80
+LÊ HOÀNG PHONG,11/06/2002,Toán:   6.80   Ngữ văn:   5.50   Vật lí:   7.25   Hóa học:   6.50   Sinh học:   4.50   KHTN: 6.08   Tiếng Anh:   5.60
+NGUYỄN DƯƠNG HOÀI PHONG,05/10/2002,Toán:   5.40   Ngữ văn:   6.00   Vật lí:   4.75   Hóa học:   3.75   Sinh học:   5.25   KHTN: 4.58   Tiếng Anh:   5.00
+NGUYỄN THANH PHONG,23/05/2002,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   6.75   Hóa học:   5.00   Sinh học:   5.25   KHTN: 5.67   Tiếng Anh:   4.00
+TÔ NGUYỄN THANH PHONG,11/09/2002,Toán:   7.20   Ngữ văn:   6.75   Vật lí:   3.75   Hóa học:   2.50   Sinh học:   3.50   KHTN: 3.25   Tiếng Anh:   3.20
+CAO VŨ THIÊN PHÚ,15/06/2002,Toán:   8.60   Ngữ văn:   5.75   Vật lí:   8.50   Hóa học:   6.00   Sinh học:   5.00   KHTN: 6.5   Tiếng Anh:   9.20
+DƯƠNG NGUYỄN TRỌNG PHÚ,25/12/2001,Toán:   7.40   Ngữ văn:   6.25   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   7.75   KHXH: 6.67   Tiếng Anh:   8.00
+NGUYỄN HOÀNG THIÊN PHÚ,25/04/2002,Toán:   6.60   Ngữ văn:   6.25   Vật lí:   4.75   Hóa học:   2.75   Sinh học:   3.75   KHTN: 3.75   Tiếng Anh:   4.80
