@@ -60,7 +60,7 @@ class DiemthiMiddleware(object):
 
         data = []
         url = request.url
-        start = 30000
+        start = 1
 
         # webdriver setting
         options = webdriver.FirefoxOptions()
@@ -79,7 +79,7 @@ class DiemthiMiddleware(object):
         loguru.logger.info("Hold URL {url}".format(url=url))
 
         try:
-            for key in range(2030000, 2030030):
+            for key in range(2000400, 2000481):
                 search_element = WebDriverWait(driver, 10).until(
                     EC.element_to_be_clickable((By.XPATH, '//*[@id="SoBaoDanh"]'))
                 )
@@ -94,8 +94,9 @@ class DiemthiMiddleware(object):
                 time.sleep(1)
 
                 url = driver.current_url
-                start += 1
+
                 loguru.logger.info(str(start)+". Hold accessed URL {url}".format(url=url))
+                start += 1
 
                 data.append(driver.page_source)
 

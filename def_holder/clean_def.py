@@ -1,7 +1,7 @@
 import csv
 import os
 
-file = open(r"../usedcsv/diemthi.csv", encoding='utf-8', mode="r")
+file = open(r"../usedcsv/diemthi_1-399.csv", encoding='utf-8', mode="r")
 
 # Read first student
 datas = file.read().split("\n")

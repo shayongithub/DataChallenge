@@ -212,7 +212,7 @@ class Handler(FileSystemEventHandler):
             loguru.logger.info("Received csv - %s." % event.src_path)
             time.sleep(2)
             # The path to start looking for usedcsv file
-            path = 'F:/Python/Data1/Assignment 1/diemthi/csv'
+            path = 'csv'
             all_files = glob.glob(os.path.join(path, 'diemthi*.csv'))
 
             # return a generator object
@@ -247,7 +247,7 @@ class Handler(FileSystemEventHandler):
             os.chdir(r"csv")
 
             new_name = 'diemthi_' + str(start_num_rows) + '-' + str(end_num_rows) + '.csv'
-            os.rename('diemthi.csv', new_name)
+            os.rename('diemthi_1-399.csv', new_name)
             time.sleep(2)
             loguru.logger.info('Changed name to ' + new_name + ' successfully')
 

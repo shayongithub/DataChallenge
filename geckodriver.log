@@ -1671,3 +1671,46 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1610902776638	Marionette	WARN	TLS certificate errors will be ignored for this session
 Exiting due to channel error.
 Exiting due to channel error.
+1611740497620	geckodriver	INFO	Listening on 127.0.0.1:63086
+1611740500680	mozrunner::runner	INFO	Running command: "C:/Users/This PC/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\THISPC~1\\AppData\\Local\\Temp\\rust_mozprofile4q2MT1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611740508208	Marionette	INFO	Listening on port 63095
+1611740508372	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1611740548173	Marionette	INFO	Stopped listening on port 63095
+1611740550239	geckodriver	INFO	Listening on 127.0.0.1:63210
+1611740553141	mozrunner::runner	INFO	Running command: "C:/Users/This PC/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "--user-agent=b\'Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1\'" "-foreground" "-no-remote" "-profile" "C:\\Users\\THISPC~1\\AppData\\Local\\Temp\\rust_mozprofiledoaSuU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611740557529	Marionette	INFO	Listening on port 63219
+1611740557924	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1611811052231	geckodriver	INFO	Listening on 127.0.0.1:54416
+1611811055339	mozrunner::runner	INFO	Running command: "C:/Users/This PC/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\THISPC~1\\AppData\\Local\\Temp\\rust_mozprofilegGUUbU"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611811060891	Marionette	INFO	Listening on port 54424
+1611811061165	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1611811068794	Marionette	INFO	Stopped listening on port 54424
+1611811070758	geckodriver	INFO	Listening on 127.0.0.1:54526
+1611811073855	mozrunner::runner	INFO	Running command: "C:/Users/This PC/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "--user-agent=b\'Mozilla/5.0 (Linux; Android 6.0.1; SM-G935S Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/55.0.2883.91 Mobile Safari/537.36\'" "-foreground" "-no-remote" "-profile" "C:\\Users\\THISPC~1\\AppData\\Local\\Temp\\rust_mozprofileiXCKsE"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611811078167	Marionette	INFO	Listening on port 54535
+1611811078623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611811969112	geckodriver	INFO	Listening on 127.0.0.1:54717
+1611811972192	mozrunner::runner	INFO	Running command: "C:/Users/This PC/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\THISPC~1\\AppData\\Local\\Temp\\rust_mozprofilenrtvkM"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611811978067	Marionette	INFO	Listening on port 54725
+1611811978469	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://deviceatlas.com/blog/list-of-user-agent-strings line 1175 > injectedScript, line 1: TypeError: document.getElementById(...) is null
+1611811985202	Marionette	INFO	Stopped listening on port 54725
+1611811987694	geckodriver	INFO	Listening on 127.0.0.1:54824
+1611811990686	mozrunner::runner	INFO	Running command: "C:/Users/This PC/AppData/Local/Mozilla Firefox/firefox.exe" "--marionette" "--headless" "--user-agent=b\'Mozilla/5.0 (Linux; Android 6.0.1; SM-G920V Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.98 Mobile Safari/537.36\'" "-foreground" "-no-remote" "-profile" "C:\\Users\\THISPC~1\\AppData\\Local\\Temp\\rust_mozprofileOKxB9J"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1611811994415	Marionette	INFO	Listening on port 54832
+1611811994869	Marionette	WARN	TLS certificate errors will be ignored for this session
