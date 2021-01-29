@@ -16,7 +16,7 @@ import loguru
 
 class DiemthiPipeline():
     def __init__(self, file_name):
-        self.file = open("diemthi/diemthi_1-399.csv", "wb")
+        self.file = open("diemthi/diemthi.csv", "wb")
         self.exporter = CsvItemExporter(self.file)
 
     @classmethod
@@ -35,7 +35,7 @@ class DiemthiPipeline():
         self.exporter.finish_exporting()
         self.file.close()
 
-        source = r'diemthi/diemthi_1-399.csv'
+        source = r'diemthi/diemthi.csv'
         destination = r'csv'
         shutil.move(source, destination)
         loguru.logger.info('Move the crawled file to csv file successfully ')

@@ -164,6 +164,7 @@ def import2sql(csvPath):
             id_start += 1
     loguru.logger.info('Import successfully. Check your SQLServer !')
 
+
 def import2mongoDB(csvPath):
     mng_client = pymongo.MongoClient('localhost', 27017)
     mng_db = mng_client['diemthi']  # Replace mongo db name
@@ -181,7 +182,7 @@ def import2mongoDB(csvPath):
 
 
 class Watcher:
-    DIRECTORY_TO_WATCH = "F:\Python\Data1\Assignment 1\diemthi\csv"
+    DIRECTORY_TO_WATCH = "csv"
 
     def __init__(self):
         self.observer = Observer()
@@ -208,6 +209,8 @@ class Handler(FileSystemEventHandler):
         if event.is_directory:
             return None
         elif event.event_type == 'created':
+            origin_directory = os.getcwd()
+
             # Take any action here when a file is first created.
             loguru.logger.info("Received csv - %s." % event.src_path)
             time.sleep(2)
@@ -247,7 +250,7 @@ class Handler(FileSystemEventHandler):
             os.chdir(r"csv")
 
             new_name = 'diemthi_' + str(start_num_rows) + '-' + str(end_num_rows) + '.csv'
-            os.rename('diemthi_1-399.csv', new_name)
+            os.rename('diemthi.csv', new_name)
             time.sleep(2)
             loguru.logger.info('Changed name to ' + new_name + ' successfully')
 
@@ -255,7 +258,7 @@ class Handler(FileSystemEventHandler):
 
             loguru.logger.info('Start transferring to "usedcsv" file')
 
-            os.chdir(r"F:/Python/Data1/Assignment 1/diemthi")
+            os.chdir(origin_directory)
 
             time.sleep(1)
             if os.path.exists(target + '/' + new_name):
@@ -281,6 +284,7 @@ class Handler(FileSystemEventHandler):
             time.sleep(2)
             import2mongoDB(path_to_filtered_csv)
             loguru.logger.info('Finished !')
+
 
 if __name__ == '__main__':
     print('Watchdog is starting . . . ')
