@@ -93,7 +93,6 @@ Finally, we drew some graphs to visualize the data more understandable and get s
 
 ![2](https://user-images.githubusercontent.com/74718176/106347176-168d5900-62ef-11eb-8f9d-e09dd34259a6.jpg)
 ![3](https://user-images.githubusercontent.com/74718176/106347177-17be8600-62ef-11eb-85af-0d3ba6e2eab4.jpg)
-![4](https://user-images.githubusercontent.com/74718176/106347178-17be8600-62ef-11eb-9b82-68acafc8f3c5.jpg)
 ![1](https://user-images.githubusercontent.com/74718176/106347179-18571c80-62ef-11eb-9031-40d4bf4f6fe9.jpg)
 
 
