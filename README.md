@@ -69,7 +69,10 @@ When you are in the right directory, first run the watchodog file first with the
 ```cd
 python supervisor.py
 ```
-
+Next is going to file contain : 
+```cd
+cd /diemthi
+```
 Then run the spider by command:
 ```cd
 scrapy crawl crawldiemthi
