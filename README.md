@@ -62,7 +62,24 @@ https://github.com/mozilla/geckodriver/releases .<br />
 Note:  
 The main problem can happen is that you don’t get the right path for your directory. So, pay attention to it, especially the path link to your Firefox browser and where you put Geckodriver.<br />
 Besides, we use relative path to ensure the users can run it easily without changing all the path, so make sure you set your terminal path to some things like this:
-F:\...\...\...\diemthi>
+F:\...\...\...\diemthi>.<br />
+
+When you are in the right directory, first run the watchodog file first with the name supervisor.py
+
+```cd
+python supervisor.py
+```
+
+Then run the spider by command:
+```cd
+scrapy crawl crawldiemthi
+```
+
+It is going to run like this: 
+
+![bx](https://user-images.githubusercontent.com/74718176/106347821-eac0a200-62f3-11eb-8712-5ec055822ce2.jpg)
+
+
 
 
 ## Usage
