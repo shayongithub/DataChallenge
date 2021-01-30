@@ -90,10 +90,6 @@ First, activate conda environment that install all library above:
 ```conda
  conda activate myenv 
 ```
-Next is running command line directory to spider : 
-```cd
- cd DataChallenge/diemthi/spiders/
-```
 And last one is running: 
 ```Scrapy
  Scrapy crawl crawldiemthi
