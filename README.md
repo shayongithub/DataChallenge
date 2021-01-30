@@ -89,7 +89,18 @@ When data crawled, it will be appear in a folder and Watchdog will automatically
 ![d](https://user-images.githubusercontent.com/65530922/106276674-80175400-626a-11eb-89c7-3c3b7a64daa6.jpg)
 
 
-Finally, we drew some graphs to visualize the data more understandable and get some insights from it.Do not forget that you have to install SQl server and MongoDB on your computer first. Details can find here: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads  
+Finally, we drew some graphs to visualize the data more understandable and get some insights from it. \n
+
+![a](https://user-images.githubusercontent.com/74718176/106347165-f9f12100-62ee-11eb-81c2-f8fac3398ea1.png)
+![b](https://user-images.githubusercontent.com/74718176/106347160-f78ec700-62ee-11eb-8f06-88bc9c860773.jpg)
+![c](https://user-images.githubusercontent.com/74718176/106347163-f9588a80-62ee-11eb-9aa6-0e6a9d0353d7.jpg)
+![d](https://user-images.githubusercontent.com/74718176/106347164-f9f12100-62ee-11eb-92aa-3539ffecddf3.jpg)
+
+
+
+
+
+Do not forget that you have to install SQl server and MongoDB on your computer first. Details can find here:
 ```Scrapy
 https://www.microsoft.com/en-gb/sql-server/sql-server-downloads  
 ```
