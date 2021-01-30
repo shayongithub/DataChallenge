@@ -83,7 +83,14 @@ It is going to run like this:
 ![bx](https://user-images.githubusercontent.com/74718176/106347821-eac0a200-62f3-11eb-8712-5ec055822ce2.jpg)
 
 
+### Do not forget that you have to install SQl server and MongoDB on your computer first. Details can find here:
+```Scrapy
+https://www.microsoft.com/en-gb/sql-server/sql-server-downloads  
+```
 
+```Scrapy
+https://www.mongodb.com/try/download/community
+```
 
 ## Usage
 
@@ -110,21 +117,6 @@ Finally, we drew some graphs to visualize the data more understandable and get s
 ![2](https://user-images.githubusercontent.com/74718176/106347176-168d5900-62ef-11eb-8f9d-e09dd34259a6.jpg)
 ![3](https://user-images.githubusercontent.com/74718176/106347177-17be8600-62ef-11eb-85af-0d3ba6e2eab4.jpg)
 ![2](https://user-images.githubusercontent.com/74718176/106347216-7257e200-62ef-11eb-9297-63fd52d5efc8.jpg)
-
-
-
-
-
-
-Do not forget that you have to install SQl server and MongoDB on your computer first. Details can find here:
-```Scrapy
-https://www.microsoft.com/en-gb/sql-server/sql-server-downloads  
-```
-
-```Scrapy
-https://www.mongodb.com/try/download/community
-```
-
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
