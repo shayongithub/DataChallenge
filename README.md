@@ -89,7 +89,16 @@ When data crawled, it will be appear in a folder and Watchdog will automatically
 ![d](https://user-images.githubusercontent.com/65530922/106276674-80175400-626a-11eb-89c7-3c3b7a64daa6.jpg)
 
 
-Finally, we drew some graphs to visualize the data more understandable and get some insights from it.
+Finally, we drew some graphs to visualize the data more understandable and get some insights from it.Do not forget that you have to install SQl server and MongoDB on your computer first. Details can find here: https://www.microsoft.com/en-gb/sql-server/sql-server-downloads  
+```Scrapy
+https://www.microsoft.com/en-gb/sql-server/sql-server-downloads  
+```
+
+```Scrapy
+https://www.mongodb.com/try/download/community
+```
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 ## Author 
