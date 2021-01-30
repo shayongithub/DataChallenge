@@ -32,19 +32,31 @@ To use the project, first clone the repo on your device using the command below:
 git init
 ```
 ```cd
- git clone https://github.com/shayongithub/DataChallenge
+git clone https://github.com/shayongithub/DataChallenge
 ```
-As we mentioned above, we use Pycharm as an IDE for this project, you can also you other IDE or run it directly from your terminal. If you want to download Pycharm, you can find it here: 
+As we mentioned above, we use Pycharm as an IDE for this project, you can also you other IDE or run it directly from your terminal. If you want to download Pycharm, you can find it here: ```cd
 https://www.jetbrains.com/pycharm/download/#section=windows
-Scrapy works best with python 3.6 – 3.7, so we recommend you create an environment with this version inside, we have undergone some troubles with later version like 3.9. Anaconda supports very well in managing your environment, so you may want to install it here: 
+```
+Scrapy works best with python 3.6 – 3.7, so we recommend you create an environment with this version inside, we have undergone some troubles with later version like 3.9. Anaconda supports very well in managing your environment, so you may want to install it here: ```cd
 https://www.anaconda.com/products/individual
+```
 Then, you can create an environment with specific version with this command (run on your Anaconda terminal): 
- conda create -n myenv python=3.6
+```cd
+conda create -n myenv python=3.6
+```
 Install libraries Scrapy and Selenium, as well as some supported library like Loguru and Json:
+```cd
 pip install scrapy
+```
+```cd
 pip install selenium
+```
+```cd
 pip install loguru
+```
+```cd
 pip install json
+```
 We use FireFox as a web browser for this project, so you have to install Geckodriver to support for it: 
 https://github.com/mozilla/geckodriver/releases
 Note:  
