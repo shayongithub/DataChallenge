@@ -58,9 +58,9 @@ pip install loguru
 pip install json
 ```
 We use FireFox as a web browser for this project, so you have to install Geckodriver to support for it: 
-https://github.com/mozilla/geckodriver/releases
+https://github.com/mozilla/geckodriver/releases .<br />
 Note:  
-The main problem can happen is that you don’t get the right path for your directory. So, pay attention to it, especially the path link to your Firefox browser and where you put Geckodriver.
+The main problem can happen is that you don’t get the right path for your directory. So, pay attention to it, especially the path link to your Firefox browser and where you put Geckodriver.<br />
 Besides, we use relative path to ensure the users can run it easily without changing all the path, so make sure you set your terminal path to some things like this:
 F:\...\...\...\diemthi>
 
